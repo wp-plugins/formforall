@@ -98,7 +98,7 @@ jQuery(document).ready(function($) {
 	get : function(user_id, api_key) {
 	    $.ajax({
 		type: 'GET',
-		url: 'https://formforall-preprod.cleverapps.io/api/users/'+user_id+'/forms',
+		url: 'https://www.formforall.com/api/users/'+user_id+'/forms',
 		beforeSend: function(xhr) {
 		    xhr.setRequestHeader("Authorization", api_key);
 		},

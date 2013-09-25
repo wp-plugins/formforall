@@ -16,7 +16,7 @@ function formforall_remove() {
  * Displays the iframe with the form
  */
 function formforall_front_display($formid, $timestamp) {
-    $url = 'formforall-preprod.cleverapps.io';
+    $url = 'www.formforall.com';
     $buffer = '<script src="https://' . $url . '/assets/javascripts/ffa.js" type="text/javascript"></script>';
     $buffer .= '<div id="formforall_container' . $timestamp . '"></div>
 		<script type="text/javascript">
@@ -78,7 +78,7 @@ class FormForAll_Widget extends WP_Widget {
 	);
 	$context = stream_context_create($opts);
 	
-	$requestUrlPath = "https://formforall-preprod.cleverapps.io/api/users/" . $option['user_id'] . "/forms";
+	$requestUrlPath = "https://www.formforall.com/api/users/" . $option['user_id'] . "/forms";
 	$file = @file_get_contents($requestUrlPath, false, $context);
 	if ($file === FALSE) {
 	    ?><p><a href="options-general.php?page=formforall-settings"><?php echo __('Les param&egrave;tres n&apos;ont pas &eacute;t&eacute; remplis correctement', 'formforall'); ?></a></span>
