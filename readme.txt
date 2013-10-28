@@ -12,7 +12,7 @@ Easy to use interface: Drag and Drop. Tens of predefined fields, including Conne
 
 == Description ==
 
-Our FormForAll plugin and widget allow you to easily insert your FomForAll forms into your sidebar and to embed them into your Wordpress site.
+Our FormForAll plugin and widget allows you to easily insert your FomForAll forms into your sidebar and to embed them into your Wordpress site.
 
 For this plugin to work, you need
 
