@@ -1,39 +1,48 @@
-=== FormForAll === 
+=== FormForAll - Responsive design and Multilingual Contact form === 
 Contributors: FormForAll
 Donate link: http://www.formforall.com/
-Tags: formforall,form4all,form,forms, online forms, web forms, form builder, lead generation, contact form, contact forms, surveys, order forms, online order forms, online surveys, registration forms, event registration forms, lead generation form, multilingual forms, multilingual, multilingual online forms, social login, Facebook connect, Facebook
+Tags: formforall,form4all,form,forms, online forms, web forms, form builder, lead generation, contact form, contact forms, surveys, order forms, online order forms, online surveys, registration forms, event registration forms, lead generation form, multilingual forms, multilingual, multilingual online forms, social login, Facebook connect, Facebook, responsive design
 
 Requires at least: 3.5.1
 Tested up to: 3.5.2
 Stable tag: 1.0
 
-This plugin allows you to embed your ‘FormForAll’ forms. Multilingual: 18 western and Asian languages. Facebook connect predefined field included.
+Easy to use interface: Drag and Drop. Tens of predefined fields, including Connect with Facebook. Multilingual. Responsive design forms.
 
 
 == Description ==
 
-FormForAll plugin allows you to insert the best forms directly coming from the FormForAll API.
-FormForAll unique features include an automatic translation of your forms in 18 western and Asian languages, and a Facebook connect predefined field.
+Our FormForAll plugin and widget allow you to easily insert your FomForAll forms into your sidebar and to embed them into your Wordpress site.
 
-Building features include:
+For this plugin to work, you need
 
-* A multilingual display: build your form in your own language and have it displayed in 18 western and Asian languages.
-* An extensive selection of forms fields: predefined ones (name, address, identity, credit card…), customized fields (text, radio buttons, check boxes, file uploads).
-* A Facebook connect field.
+* to open a FormForAll account: signup for free at http://www.formforall.com and test our Free plan.
+* to use our API key.
 
-Publishing features include:
+Create your forms in seconds:
 
+* Easy Drag and Drop interface.
+* Multilingual form: build your form in your own language and have it displayed in 18 western and Asian languages.
+* An extensive selection of forms fields: predefined ones (name, address, identity, credit card...), customized fields (text, radio buttons, check boxes, file uploads).
+* Connect with Facebook: 2 seconds instead of days to include this field into your form!
+
+Settings options:
+
+* All forms are in responsive design (for Smartphone, tablet and PC)
 * Insertion of your logo.
-* Themes, custom CSS.
-* SSL, Captcha.
+* Choice of font, size, color, custom CSS.
+* SSL, RSA key, Captcha.
 * Notification and confirmation emails, form submission message or redirection.
 
-Collection features include:
+Publish your form online:
 
-* Export CSV or with API.
+* With a hosted URL.
+* With our JavaScript wich will embed your form on a HTML page of your site.
+
+Collect submissions data of your web users
+
+* By Export CSV or with our API.
 * Activity reports. 
-
-For this plugin to work, you need to open a FormForAll account: signup for free at http://www.formforall.com
 
 == Installation ==
 
