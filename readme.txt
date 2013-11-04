@@ -17,7 +17,7 @@ Our FormForAll plugin and widget allows you to easily insert your FomForAll form
 For this plugin to work, you need
 
 * to open a FormForAll account: signup for free at http://www.formforall.com and test our Free plan.
-* to use our API key.
+* to use our User API key.
 
 Create your forms in seconds:
 
@@ -41,7 +41,7 @@ Publish your form online:
 
 Collect submissions data of your web users
 
-* By Export CSV or with our API.
+* By Export CSV or with our Records API.
 * Activity reports. 
 
 == Installation ==
@@ -49,14 +49,14 @@ Collect submissions data of your web users
 Open a FormForAll account: signup for free at http://www.formforall.com
 Upload the FormForAll directory to the `/wp-content/plugins/` directory.
 Activate the plugin through the 'Plugins' menu in Wordpress.
-Enter the API key in the Settings section.
+Enter the User API key in the Settings section.
 Add a form when editing a post or add the widget to one of your sidebars.
 
 == Frequently Asked Questions ==
-Where can I find my FormForAll API key?
+Where can I find my FormForAll User API key?
 
-To get your FormForAll API key, login to your FormForAll account
-(https://www.formforall.com) then go to ‘My Account’ then to ‘API key’.
+To get your FormForAll User API key, login to your FormForAll account
+(https://www.formforall.com) then go to ‘My Account’ then to ‘User API key’.
 
 == Screenshots ==
 

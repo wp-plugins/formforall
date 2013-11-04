@@ -21,8 +21,8 @@ msgstr "Param&egrave;tres"
 msgid "Id utilisateur"
 msgstr "Id utilisateur :"
 
-msgid "Cl&eacute; API"
-msgstr "Cl&eacute; API :"
+msgid "Cl&eacute; API utilisateur"
+msgstr "Cl&eacute; API utilisateur :"
 
 msgid "Obtenir une cl&eacute;"
 msgstr "Obtenir une cl&eacute;"

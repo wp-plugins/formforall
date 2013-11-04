@@ -108,7 +108,7 @@ function formforall_admin_page_display() {
     $buffer .= '<div style="float: left; padding: 5px;"><input type="text" name="formforall_user_id" value="' . $option['user_id'] . '" size="50"></div>';
     $buffer .= '<div style="clear: both"></div>';
     
-    $buffer .= '<div style="float: left; padding: 10px 5px; width: 90px"><label for="formforall_api_key">' . __("Cl&eacute; API", 'formforall' ) . '</label></div>';
+    $buffer .= '<div style="float: left; padding: 10px 5px; width: 90px"><label for="formforall_api_key">' . __("Cl&eacute; API utilisateur", 'formforall' ) . '</label></div>';
     $buffer .= '<div style="float: left; padding: 5px;"><input type="text" name="formforall_api_key" value="' . $option['api_key'] . '" size="50"></div>';
     $buffer .= '<div style="float: left; padding: 10px;"><a href="http://www.formforall.com" class="submit" target="_blank">' . __("Obtenir une cl&eacute;", 'formforall' ) . '</a></div>';
     $buffer .= '<div style="clear: both"></div>';
