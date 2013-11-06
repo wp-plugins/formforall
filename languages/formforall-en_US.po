@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: FormForAll\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
@@ -9,11 +9,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.5.7\n"
-"Language: ENGLISH\n"
+"Language: fr_FR\n"
 
 # Settings
 msgid "Configuration de FormForAll"
-msgstr "FormForAll configuration "
+msgstr "FormForAll configuration"
 
 msgid "Param&egrave;tres"
 msgstr "Parameters"
@@ -22,15 +22,15 @@ msgid "Id utilisateur"
 msgstr "User Id:"
 
 msgid "Cl&eacute; API utilisateur"
-msgstr "User API; key :"
+msgstr "User API key:"
 
 msgid "Obtenir une cl&eacute;"
-msgstr "To get an API key;"
+msgstr "To get an API key"
 
 # Error form and widget
 msgid ""
 "Les param&egrave;tres n&apos;ont pas &eacute;t&eacute; remplis correctement"
-msgstr "Parameters have not been set correctly."
+msgstr "Parameters have not been set correctly"
 
 # Widget
 msgid "Des formulaires faciles d&apos;utilisation"
