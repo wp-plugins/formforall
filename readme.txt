@@ -47,19 +47,19 @@ Collect submissions data of your web users
 
 == Installation ==
 
-* 1. Open a free FormForAll account: signup for free at http://www.formforall.com
-* 2. Through your Wordpress menu, click on Plugins and type FormForAll on the search box
-* 3. Once you have found our FormForAll plugin, click on Install now
-* 4. A new window opens. Click on Install now.
-* 5. Click on Activate Plugin. You should see our Plugin on your Plugins' list.
-* 6. Look at your wordpress toolbar, our logo icon should have appeared at the right of the toolbar menu. Click on the icon.
-* 7. If a new window opens with the message : "Parameters have not been set correctly", go to next step, otherwise skip to step 13.
-* 8. Click on the message "Parameters have not been set correctly".
-* 9. To use our API, you need to enter 2 parameters. To get them, click on the link "To get an API key".
-* 10. You are now redirected to our site www.formforall.com. Log-in to your account, go to MY ACCOUNT and then to USER API KEY.
-* 11. On the USER API KEY window, you see the User ID and API key parameters that you have to copy on wordpress.Once copied on wordpress, click on "Save changes".
-* 12. A "settings saved" message should appear and confirm that your API parameters have been saved.
-* 13. You're done! A new window opens. All forms you have created on your www.formforall.com account appear there. Just select one form and click on "Add a form" to insert it whereever you want on your wordpress site!
+* .1. Open a free FormForAll account: signup for free at http://www.formforall.com
+* .2. Through your Wordpress menu, click on Plugins and type FormForAll on the search box
+* .3. Once you have found our FormForAll plugin, click on Install now
+* .4. A new window opens. Click on Install now.
+* .5. Click on Activate Plugin. You should see our Plugin on your Plugins' list.
+* .6. Look at your wordpress toolbar, our logo icon should have appeared at the right of the toolbar menu. Click on the icon.
+* .7. If a new window opens with the message : "Parameters have not been set correctly", go to next step, otherwise skip to step 13.
+* .8. Click on the message "Parameters have not been set correctly".
+* .9. To use our API, you need to enter 2 parameters. To get them, click on the link "To get an API key".
+* .10. You are now redirected to our site www.formforall.com. Log-in to your account, go to MY ACCOUNT and then to USER API KEY.
+* .11. On the USER API KEY window, you see the User ID and API key parameters that you have to copy on wordpress.Once copied on wordpress, click on "Save changes".
+* .12. A "settings saved" message should appear and confirm that your API parameters have been saved.
+* .13. You're done! A new window opens. All forms you have created on your www.formforall.com account appear there. Just select one form and click on "Add a form" to insert it whereever you want on your wordpress site!
 
 
 
