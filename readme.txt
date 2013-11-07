@@ -1,7 +1,7 @@
-=== FormForAll - Responsive design and Multilingual Contact form === 
+﻿=== FormForAll - Responsive design and Multilingual Contact form === 
 Contributors: FormForAll
 Donate link: http://www.formforall.com/
-Tags: formforall,form4all,form,forms, online forms, web forms, form builder, lead generation, contact form, contact forms, surveys, order forms, online order forms, online surveys, registration forms, event registration forms, lead generation form, multilingual forms, multilingual, multilingual online forms, social login, Facebook connect, Facebook, responsive design
+Tags: formforall, form4all, form for all, form, forms, online forms, web forms, form builder, lead generation, contact form, contact forms, surveys, order forms, online order forms, online surveys, registration forms, event registration forms, lead generation form, multilingual forms, multilingual, multilingual online forms, social login, Facebook connect, Facebook, responsive design, double opt-in
 
 Requires at least: 3.5.1
 Tested up to: 3.5.2
@@ -25,6 +25,7 @@ Create your forms in seconds:
 * Multilingual form: build your form in your own language and have it displayed in 18 western and Asian languages.
 * An extensive selection of forms fields: predefined ones (name, address, identity, credit card...), customized fields (text, radio buttons, check boxes, file uploads).
 * Connect with Facebook: 2 seconds instead of days to include this field into your form!
+* Double opt-in
 
 Settings options:
 
