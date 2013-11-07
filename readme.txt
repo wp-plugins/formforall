@@ -7,7 +7,7 @@ Requires at least: 3.5.1
 Tested up to: 3.5.2
 Stable tag: 1.0
 
-Easy to use interface: Drag and Drop. Tens of predefined fields, including Connect with Facebook. Multilingual. Responsive design forms.
+Drag and Drop easy interface. Tens of predefined fields, including Connect with Facebook. Multilingual. Responsive design forms, double opt-in.
 
 
 == Description ==
