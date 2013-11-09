@@ -22,10 +22,10 @@ For this plugin to work, you need
 Create your forms in seconds:
 
 * Easy Drag and Drop interface.
-* Multilingual form: build your form in your own language and have it displayed in 18 western and Asian languages.
-* An extensive selection of forms fields: predefined ones (name, address, identity, credit card...), customized fields (text, radio buttons, check boxes, file uploads).
-* Connect with Facebook: 2 seconds instead of days to include this field into your form!
-* Double opt-in
+* Multilingual form: build your form in your own language and have it displayed in 18 western and Asian languages : Catalan, Chinese (simple), Czech, Danish, Dutch, English (US),English (UK), French, German, Italian, Japanese, Korean, Polish, Portuguese, Slovak, Spanish, Russian, Turkish.
+* An extensive selection of forms fields: predefined ones (name, address, identity, credit card, date / time, ...), customized fields (text, radio buttons, check boxes, file uploads).
+* Connect with Facebook: insert our Connect with Facebook field into your form in 2 seconds instead of days!
+* Double opt-in: when your web users submit their form, an e-mail with a verification link is sent to their declared e-mail address. When the web user clicks on the link in the e-mail, we check and pass the information on to you.
 
 Settings options:
 
@@ -33,16 +33,18 @@ Settings options:
 * Insertion of your logo.
 * Choice of font, size, color, custom CSS.
 * SSL, RSA key, Captcha.
-* Notification and confirmation emails, form submission message or redirection.
+* Notification emails: we can send you an e-mail as soon as a form has been submitted. You can then export submitted data using your control panel. If you need submitted data on a real time basis, use our API. 
+* Confirmation emails: every time a form is submitted, we can send a confirmation e-mail on your behalf to your web users. 
+* Form submission message or redirection: a default message can be displayed to the user once the form is submitted, or the user can be redirected to the URL of your choice.
 
 Publish your form online:
 
 * With a hosted URL.
-* With our JavaScript wich will embed your form on a HTML page of your site.
+* With our JavaScript, that you just have to copy / paste, wich will embed your form on a HTML page of your site.
 
 Collect submissions data of your web users
 
-* By Export CSV or with our Records API.
+* By Export CSV or with our Records API (full documentation step by step provided).
 * Activity reports. 
 
 == Installation ==
