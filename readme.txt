@@ -57,6 +57,8 @@ Collect submissions data of your web users
 
 (refer to http://blog.formforall.com/how-to-install-formforalls-wordpress-contact-form-plugin/ )
 
+(Pour le mode d'emploi de l'installation en français, allez sur  http://blog.formforall.com/comment-installer-le-plugin-formforall-pour-wordpress/ )
+
 * .1. Open a free FormForAll form builder account.
 * .2. Through your WordPress menu, click on Plugins and type FormForAll on the search box.
 * .3. Once you have found our WordPress contact form FormForAll plugin, click on Install now.
