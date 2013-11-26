@@ -13,7 +13,9 @@ Drag and Drop easy interface. Tens of predefined fields, including Connect with 
 == Description ==
 
 Our FormForAll plugin and widget allows you to easily insert your FormForAll forms into your sidebar and to embed them into your Wordpress site.
+
 Nuestro plugin FormForAll y widget le permite insertar fácilmente los formularios FormForAll en tu barra lateral e incrustarlos en tu sitio de WordPress. (Más info en https://www.es.formforall.com )
+
 Nos plugin et widget FormForAll vous permettent d'insérer facilement vos formulaires FormForAll dans votre barre de menu et de les intégrer dans votre site Wordpress. (Plus d'infos sur https://www.fr.formforall.com )
 
 For this plugin to work, you need:
