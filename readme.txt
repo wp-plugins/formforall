@@ -1,7 +1,7 @@
 === Contact form builder FormForAll - Facebook connect, Double opt-in, Responsive design, Multilingual === 
 Contributors: FormForAll
 Donate link: http://www.formforall.com/
-Tags: formforall, form4all, form for all, form, forms, online forms, form builder, lead generation, contact form, contact forms, surveys, order forms, online surveys, registration forms, event registration forms, lead generation form, multilingual, social login, Facebook connect, Facebook, responsive design, double opt-in, catalan, chinese (simple), czech, danish, dutch, english, french, german, italian, japanese, korean, polish, portuguese, slovak, spanish, russian, turkish, formulaire de contact, formulaire, formulario de contacto
+Tags: formforall, form4all, form for all, form, forms, online forms, form builder, lead generation, contact form, contact forms, surveys, order forms, online surveys, registration forms, event registration forms, lead generation form, multilingual, social login, Facebook connect, Facebook, responsive design, double opt-in, catalan, chinese (simple), czech, danish, dutch, english, french, german, italian, japanese, korean, polish, portuguese, slovak, spanish, russian, turkish, formulaire de contact, formulaire, formulario de contacto, formulario
 
 Requires at least: 3.5.1
 Tested up to: 3.5.2
@@ -12,7 +12,9 @@ Drag and Drop easy interface. Tens of predefined fields, including Connect with 
 
 == Description ==
 
-Our FormForAll plugin and widget allows you to easily insert your FomForAll forms into your sidebar and to embed them into your Wordpress site.
+Our FormForAll plugin and widget allows you to easily insert your FormForAll forms into your sidebar and to embed them into your Wordpress site.
+Nuestro plugin FormForAll y widget le permite insertar fácilmente los formularios FormForAll en tu barra lateral e incrustarlos en tu sitio de WordPress. (Más info en https://www.es.formforall.com )
+Nos plugin et widget FormForAll vous permettent d'insérer facilement vos formulaires FormForAll dans votre barre de menu et de les intégrer dans votre site Wordpress. (Plus d'infos sur https://www.fr.formforall.com )
 
 For this plugin to work, you need:
 
