@@ -12,6 +12,21 @@ Drag and Drop easy interface. Tens of predefined fields, including Connect with 
 
 == Description ==
 
+WHY FORMFORALL ?
+
+Of course you can code yourself your forms. But it will take you hours or days if you want to include features such as SOCIAL LOGIN, DOUBLE OPT-IN or MULTILINGUALISM.
+So don’t you think you are wasting your time and money while FormForAll can do it for you for FREE or for a MODERATE monthly subscription?
+
+* Evidemment vous pouvez vous-même coder votre formulaire. Mais cela va vous prendre des heures ou des jours selon que vous vouliez inclure des fonctionnalités comme le SOCIAL LOGIN, le DOUBLE OPT-IN ou le  MULTILINGUISME.
+Alors ne pensez-vous pas que vous perdez votre temps et votre argent alors que FormForAll ( https://www.fr.formforall.com ) peut le faire GRATUIT pour vous  ou pour une TRES PETITE souscription mensuelle ?
+
+* Evidentemente usted mismo puede codificar su formulario. Pero esto va tomarle horas o días según que usted quería incluir funcionalidades como SOCIAL LOGIN, el DOBLE OPT-IN o el MULTILINGÜISMO.
+¿Entonces no piensa que pierde su tiempo y su dinero mientras que FormForAll ( https://www.es.formforall.com ) puede hacerlo GRATIS para usted o para una muy PEQUEÑA suscripción mensual y?
+
+
+
+DESCRIPTION
+
 Our FormForAll plugin and widget allows you to easily insert your FormForAll forms into your sidebar and to embed them into your Wordpress site.
 
 Nuestro plugin FormForAll y widget le permite insertar fácilmente los formularios FormForAll en tu barra lateral e incrustarlos en tu sitio de WordPress. (Más info en https://www.es.formforall.com )
@@ -23,13 +38,17 @@ For this plugin to work, you need:
 * to open a FormForAll account: signup for free at https://www.formforall.com and test our plans freely for one month.
 * to use our User API key (refer to http://blog.formforall.com/how-to-install-formforalls-wordpress-contact-form-plugin/ ).
 
+
+
+FEATURES
+
 Create your forms in seconds:
 
 * Easy Drag and Drop interface.
-* Multilingual form: build your form in your own language and have it displayed in 18 western and Asian languages: catalan, chinese (simple), czech, danish, dutch, english (us), english (uk), french, german, italian, japanese, korean, polish, portuguese, slovak, spanish, russian, turkish.
+* MULTILINGUAL form: build your form in your own language and have it displayed in 20 western and Asian LANGUAGES: catalan, chinese (simple), czech, danish, dutch, english (us), english (uk), flemish, french, german, hungarian, italian, japanese, korean, polish, portuguese, slovak, spanish, russian, turkish.
 * An extensive selection of forms fields: predefined ones (log-in, sign-up, name, address, identity, credit card, date / time...), customized fields (text, radio buttons, check boxes, file uploads).
-* Connect with Facebook: insert Connect with Facebook social login field into your forms in 2 seconds instead of days!
-* Double opt-in : When your web users submit their form, an e-mail with a verification link is sent to their declared e-mail address. When the web user clicks on the link in the e-mail, we pass the information on to you.
+* SOCIAL LOG-IN - SOCIAL SIGN-IN/ Connect with Facebook: insert our Connect with Facebook social login field into your forms in 2 seconds instead of days! And have your web users fill in their info with their social network identity.
+* DOUBLE OPT-IN : When your web users submit their form, an e-mail with a verification link is sent to their declared e-mail address. When the web user clicks on the link in the e-mail, we pass the information on to you.
 
 Settings options:
 
