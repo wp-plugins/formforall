@@ -1,13 +1,13 @@
-=== Contact form builder FormForAll - Facebook connect, Double opt-in, Responsive design, Multilingual === 
+=== Contact form builder FormForAll - Facebook & Google+ connect, Double opt-in, Responsive design, 20 languages === 
 Contributors: FormForAll
-Donate link: http://www.formforall.com/
-Tags: formforall, form4all, form for all, form, forms, online forms, form builder, lead generation, contact form, contact forms, surveys, order forms, online surveys, registration forms, event registration forms, lead generation form, multilingual, social login, Facebook connect, Facebook, responsive design, double opt-in, catalan, chinese (simple), czech, danish, dutch, english, french, german, italian, japanese, korean, polish, portuguese, slovak, spanish, russian, turkish, formulaire de contact, formulaire, formulario de contacto, formulario
+Donate link: https://www.formforall.com/
+Tags: formforall, form4all, form for all, form, forms, online forms, form builder, lead generation, contact form, contact forms, surveys, order forms, online surveys, registration forms, event registration forms, lead generation form, multilingual, social login, Facebook connect, Facebook, responsive design, double opt-in, catalan, chinese (simple), czech, danish, dutch, english, french, german, italian, japanese, korean, polish, portuguese, slovak, spanish, russian, turkish, formulaire de contact, formulaire, formulario de contacto, formulario, Google+ connect, modulo di contatto, modulo, Kontaktformular, Formular, formularz kontaktowy, formularz, форма контактов, форма
 
 Requires at least: 3.5.1
 Tested up to: 3.5.2
 Stable tag: 1.0
 
-Drag and Drop easy interface. Tens of predefined fields, including Connect with Facebook. Multilingual. Responsive design forms. Double opt-in.
+Drag and Drop easy interface. Tens of predefined fields, including Connect with Facebook and Google+. Multilingual. Responsive design. Double opt-in.
 
 
 == Description ==
@@ -18,20 +18,36 @@ Of course you can code yourself your forms. But it will take you hours or days i
 So don’t you think you are wasting your time and money while FormForAll can do it for you for FREE or for a MODERATE monthly subscription?
 
 * Evidemment vous pouvez vous-même coder votre formulaire. Mais cela va vous prendre des heures ou des jours selon que vous vouliez inclure des fonctionnalités comme le SOCIAL LOGIN, le DOUBLE OPT-IN ou le  MULTILINGUISME.
-Alors ne pensez-vous pas que vous perdez votre temps et votre argent alors que FormForAll ( https://www.fr.formforall.com ) peut le faire GRATUIT pour vous  ou pour une TRES PETITE souscription mensuelle ?
+Alors ne pensez-vous pas que vous perdez votre temps et votre argent alors que FormForAll ( http://www.fr.formforall.com ) peut le faire GRATUITEMENT pour vous  ou pour une TRES PETITE souscription mensuelle ?
 
 * Evidentemente usted mismo puede codificar su formulario. Pero esto va tomarle horas o días según que usted quería incluir funcionalidades como SOCIAL LOGIN, el DOBLE OPT-IN o el MULTILINGÜISMO.
-¿Entonces no piensa que pierde su tiempo y su dinero mientras que FormForAll ( https://www.es.formforall.com ) puede hacerlo GRATIS para usted o para una muy PEQUEÑA suscripción mensual y?
+¿Entonces no piensa que pierde su tiempo y su dinero mientras que FormForAll ( http://www.es.formforall.com ) puede hacerlo GRATIS para usted o para una muy PEQUEÑA suscripción mensual y?
 
+* Ovviamente è possibile codificare il proprio modulo. Ma ci vorranno ore o giorni a seconda se si desidera includere caratteristiche come SOCIALE LOGIN, DOUBLE OPT-IN o MULTILINGUISMO. 
+Allora non perdere tempo e denaro mentre FormForAll ( http://www.it.formforall.com ) può fare GRATIS per voi o per un PICCOLO abbonamento mensile?
 
+* Natürlich können Sie Ihr Formular codieren. Aber es wird Sie Stunden oder Tage dauern, je nachdem, ob Sie Funktionen wie SOZIAL LOGIN, DOUBLE OPT-IN-oder MEHRSPRACHIGKEIT aufnehmen möchten.
+Also vergeuden Sie nicht Ihre Zeit und Geld während FormForAll( http://www.de.formforall.com ) für Sie KOSTENLOS oder zu einem SEHR GERINGEN monatlichen Abonnement tun kann?
+
+* Создавайте и интегрируйте ваши формы в ваш сайт за несколько секунд ( http://www.ru.formforall.com )
+
+* Stwórz i zintegruj formularze z Twoją stroną w kilka sekund ( http://www.pl.formforall.com )
 
 DESCRIPTION
 
 Our FormForAll plugin and widget allows you to easily insert your FormForAll forms into your sidebar and to embed them into your Wordpress site.
 
-Nuestro plugin FormForAll y widget le permite insertar fácilmente los formularios FormForAll en tu barra lateral e incrustarlos en tu sitio de WordPress. (Más info en https://www.es.formforall.com )
+* Nos plugin et widget FormForAll vous permettent d'insérer facilement vos formulaires FormForAll dans votre barre de menu et de les intégrer dans votre site Wordpress. (Plus d'infos sur http://www.fr.formforall.com )
 
-Nos plugin et widget FormForAll vous permettent d'insérer facilement vos formulaires FormForAll dans votre barre de menu et de les intégrer dans votre site Wordpress. (Plus d'infos sur https://www.fr.formforall.com )
+* Nuestro plugin FormForAll y widget le permite insertar fácilmente los formularios FormForAll en tu barra lateral e incrustarlos en tu sitio de WordPress. (Más info en http://www.es.formforall.com )
+
+* Il nostro plugin per Wordpress e il nostro widget permettono di inserire facilmente i moduli FormForAll nella barra dei menu e di integrarli nel tuo sito Wordpress. (Maggiori informazioni su http://www.it.formforall.com)
+
+* Unser Wordpress Plugin und unser Widget bieten Ihnen die Möglichkeit, Ihre FormForAll Formulare einfach in Ihre Menüleiste einzufügen und sie in Ihrer Wordpress Webseite zu integrieren. (Mehr über http://www.de.formforall.com)
+
+* Wtyczka do Wordpressa oraz widżet pozwalają wkleić w łatwy sposób formularze FormForAll do Twojego paska menu oraz połączyć je z Twoją stroną Wordpress. (Więcej informacji na temat http://www.pl.formforall.com)
+
+* С помощью нашего подключаемого модуля Wordpress и нашего виджета вы можете легко вставлять ваши формы FormForAll в строку меню и интегрировать их в ваш сайт Wordpress. (Подробнее http://www.ru.formforall.com)
 
 For this plugin to work, you need:
 
@@ -47,7 +63,7 @@ Create your forms in seconds:
 * Easy Drag and Drop interface.
 * MULTILINGUAL form: build your form in your own language and have it displayed in 20 western and Asian LANGUAGES: catalan, chinese (simple), czech, danish, dutch, english (us), english (uk), flemish, french, german, hungarian, italian, japanese, korean, polish, portuguese, slovak, spanish, russian, turkish.
 * An extensive selection of forms fields: predefined ones (log-in, sign-up, name, address, identity, credit card, date / time...), customized fields (text, radio buttons, check boxes, file uploads).
-* SOCIAL LOG-IN - SOCIAL SIGN-IN/ Connect with Facebook: insert our Connect with Facebook social login field into your forms in 2 seconds instead of days! And have your web users fill in their info with their social network identity.
+* SOCIAL LOG-IN - SOCIAL SIGN-IN/ Connect with FACEBOOK and GOOGLE+: insert our Connect with Facebook / Google+ social login field into your forms in 2 seconds instead of days! And have your web users fill in their info with their social network identity.
 * DOUBLE OPT-IN : When your web users submit their form, an e-mail with a verification link is sent to their declared e-mail address. When the web user clicks on the link in the e-mail, we pass the information on to you.
 
 Settings options:
@@ -74,7 +90,7 @@ Collect submissions data of your web users
 
 == Installation ==
 
-(refer to http://blog.formforall.com/how-to-install-formforalls-wordpress-contact-form-plugin/ )
+(For detailed explanations in English, you may click on http://blog.formforall.com/how-to-install-formforalls-wordpress-contact-form-plugin/ )
 
 (Pour le mode d'emploi de l'installation en français, allez sur  http://blog.formforall.com/comment-installer-le-plugin-formforall-pour-wordpress/ )
 
