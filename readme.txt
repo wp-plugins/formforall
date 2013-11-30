@@ -52,7 +52,7 @@ Our FormForAll plugin and widget allows you to easily insert your FormForAll for
 For this plugin to work, you need:
 
 * to open a FormForAll account: signup for free at https://www.formforall.com and test our plans freely for one month.
-* to use our User API key (refer to http://blog.formforall.com/how-to-install-formforalls-wordpress-contact-form-plugin/ ).
+* to use our User API key (refer to http://blog.formforall.com/ ).
 
 
 
@@ -90,11 +90,11 @@ Collect submissions data of your web users
 
 == Installation ==
 
-(For detailed explanations in English, you may click on http://blog.formforall.com/how-to-install-formforalls-wordpress-contact-form-plugin/ )
+(For detailed explanations in English, you may click on http://blog.formforall.com/ )
 
-(Pour le mode d'emploi de l'installation en français, allez sur  http://blog.formforall.com/comment-installer-le-plugin-formforall-pour-wordpress/ )
+(Pour le mode d'emploi de l'installation en français, allez sur  http://blog.formforall.com/ )
 
-(Para las instrucciones de instalación en español, ir a http://blog.formforall.com/como-instalar-el-plugin-formforall-para-wordpress/ )
+(Para las instrucciones de instalación en español, ir a http://blog.formforall.com/ )
 
 * .1. Open a free FormForAll form builder account.
 * .2. Through your WordPress menu, click on Plugins and type FormForAll on the search box.
