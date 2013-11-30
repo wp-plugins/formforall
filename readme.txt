@@ -92,9 +92,9 @@ Collect submissions data of your web users
 
 (For detailed explanations in English, you may click on http://blog.formforall.com/ )
 
-(Pour le mode d'emploi de l'installation en français, allez sur  http://blog.formforall.com/ )
+(Pour le mode d'emploi de l'installation en français, allez sur  http://blog.formforall.com/comment-installer-le-plugin-formforall-pour-wordpress/ )
 
-(Para las instrucciones de instalación en español, ir a http://blog.formforall.com/ )
+(Para las instrucciones de instalación en español, ir a http://blog.formforall.com/como-instalar-el-plugin-formforall-para-wordpress/ )
 
 * .1. Open a free FormForAll form builder account.
 * .2. Through your WordPress menu, click on Plugins and type FormForAll on the search box.
