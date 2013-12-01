@@ -90,7 +90,7 @@ Collect submissions data of your web users
 
 == Installation ==
 
-(For detailed explanations in English, you may click on http://blog.formforall.com/ )
+(For detailed explanations in English, you may click on http://blog.formforall.com/how-to-install-formforalls-wordpress-contact-form-plugin/ )
 
 (Pour le mode d'emploi de l'installation en français, allez sur  http://blog.formforall.com/comment-installer-le-plugin-formforall-pour-wordpress/ )
 
