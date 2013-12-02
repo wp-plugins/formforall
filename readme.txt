@@ -14,17 +14,17 @@ Drag and Drop easy interface. Tens of predefined fields, including Connect with 
 
 WHY FORMFORALL ?
 
-Of course you can code yourself your forms. But it will take you hours or days if you want to include features such as SOCIAL LOGIN, DOUBLE OPT-IN or MULTILINGUALISM.
-So don’t you think you are wasting your time and money while FormForAll can do it for you for FREE or for a MODERATE monthly subscription?
+Coding yourself your forms will take you hours or days if you want to include features such as SOCIAL LOGIN, DOUBLE OPT-IN or MULTILINGUALISM.
+DON'T WASTE your TIME and MONEY while FormForAll (http://www.formforall.com ) can do it for you for FREE or for a MODERATE monthly subscription!
 
-* Evidemment vous pouvez vous-même coder votre formulaire. Mais cela va vous prendre des heures ou des jours selon que vous vouliez inclure des fonctionnalités comme le SOCIAL LOGIN, le DOUBLE OPT-IN ou le  MULTILINGUISME.
-Alors ne pensez-vous pas que vous perdez votre temps et votre argent alors que FormForAll ( http://www.fr.formforall.com ) peut le faire GRATUITEMENT pour vous  ou pour une TRES PETITE souscription mensuelle ?
+* Coder vous-même votre formulaire peut vous faire perdre des heures ou des jours selon que vous incluiez des fonctionnalités comme le SOCIAL LOGIN, le DOUBLE OPT-IN ou le MULTILINGUISME. 
+ECONOMISEZ VOTRE TEMPS et votre ARGENT avec FormForAll (http://www.fr.formforall.com ), qui peut le faire GRATUITEMENT pour vous ou pour une très petite souscription mensuelle !
 
-* Evidentemente usted mismo puede codificar su formulario. Pero esto va tomarle horas o días según que usted quería incluir funcionalidades como SOCIAL LOGIN, el DOBLE OPT-IN o el MULTILINGÜISMO.
-¿Entonces no piensa que pierde su tiempo y su dinero mientras que FormForAll ( http://www.es.formforall.com ) puede hacerlo GRATIS para usted o para una muy PEQUEÑA suscripción mensual y?
+* Codificar sus formularios va tomarle horas o días según que usted quería incluir funcionalidades como SOCIAL LOGIN, el DOBLE OPT-IN o el MULTILINGÜISMO.
+AHORRE tiempo y dinero con FormForAll ( http://www.es.formforall.com ), que puede hacerlo GRATUITAMENTE para usted o para una muy pequeña suscripción mensual!
 
-* Ovviamente è possibile codificare il proprio modulo. Ma ci vorranno ore o giorni a seconda se si desidera includere caratteristiche come SOCIALE LOGIN, DOUBLE OPT-IN o MULTILINGUISMO. 
-Allora non perdere tempo e denaro mentre FormForAll ( http://www.it.formforall.com ) può fare GRATIS per voi o per un PICCOLO abbonamento mensile?
+* Codificare il proprio modulo si può perdere ore o giorni a seconda se si include caratteristiche come SOCIALE LOGIN, DOUBLE OPT-IN o MULTILINGUISMO. 
+RISPARMIA tempo e denaro con FormForAll ( http://www.it.formforall.com ), che possono farlo GRATUITAMENTE per voi o per un abbonamento mensile molto piccolo!
 
 * Natürlich können Sie Ihr Formular codieren. Aber es wird Sie Stunden oder Tage dauern, je nachdem, ob Sie Funktionen wie SOZIAL LOGIN, DOUBLE OPT-IN-oder MEHRSPRACHIGKEIT aufnehmen möchten.
 Also vergeuden Sie nicht Ihre Zeit und Geld während FormForAll( http://www.de.formforall.com ) für Sie KOSTENLOS oder zu einem SEHR GERINGEN monatlichen Abonnement tun kann?
@@ -35,19 +35,27 @@ Also vergeuden Sie nicht Ihre Zeit und Geld während FormForAll( http://www.de.f
 
 DESCRIPTION
 
+Contact form, Sign-up form, Log-in form, Subscription form, Booking form, Survey form, Event registration, Email newsletter… Just do any form with our online form builder!
+
 Our FormForAll plugin and widget allows you to easily insert your FormForAll forms into your sidebar and to embed them into your Wordpress site.
 
-* Nos plugin et widget FormForAll vous permettent d'insérer facilement vos formulaires FormForAll dans votre barre de menu et de les intégrer dans votre site Wordpress. (Plus d'infos sur http://www.fr.formforall.com )
+* Formulaire de contact, formulaire de Sign-up, formulaire de Log-in, formulaire d'inscription, formulaire de réservation, formulaire de sondage, inscription à un évènement, email newsletter… Faites tout simplement n'importe quel formulaire avec notre générateur de formulaire !
+Nos plugin et widget FormForAll vous permettent d'insérer facilement vos formulaires FormForAll dans votre barre de menu et de les intégrer dans votre site Wordpress. (Plus d'infos sur http://www.fr.formforall.com )
 
-* Nuestro plugin FormForAll y widget le permite insertar fácilmente los formularios FormForAll en tu barra lateral e incrustarlos en tu sitio de WordPress. (Más info en http://www.es.formforall.com )
+* Formulario de contacto, formulario de Sign-up, formulario de Log-in, formulario de inscripción, formulario de reserva, formulario de sondeo, inscripción a un evento, e-mail newsletter… Con nuestro creador podrá generar cualquier tipo de formulario.
+Nuestro plugin FormForAll y widget le permite insertar fácilmente los formularios FormForAll en tu barra lateral e incrustarlos en tu sitio de WordPress. (Más info en http://www.es.formforall.com )
 
-* Il nostro plugin per Wordpress e il nostro widget permettono di inserire facilmente i moduli FormForAll nella barra dei menu e di integrarli nel tuo sito Wordpress. (Maggiori informazioni su http://www.it.formforall.com)
+* Modulo di contatto, modulo di registrazione, modulo di accesso, modulo di registrazione, modulo di prenotazione, modulo di sondaggio, iscrizione a un evento, newsletter... Crea facilmente qualsiasi modulo con il nostro generatore di moduli!
+Il nostro plugin per Wordpress e il nostro widget permettono di inserire facilmente i moduli FormForAll nella barra dei menu e di integrarli nel tuo sito Wordpress. (Maggiori informazioni su http://www.it.formforall.com)
 
-* Unser Wordpress Plugin und unser Widget bieten Ihnen die Möglichkeit, Ihre FormForAll Formulare einfach in Ihre Menüleiste einzufügen und sie in Ihrer Wordpress Webseite zu integrieren. (Mehr über http://www.de.formforall.com)
+* Kontaktformular, Sign-up-Formular, Log-in-Formular, Anmeldeformular, Buchungsformular, Umfrageformular, Anmeldung zu einem Event, E-Mail-Newsletter Erstellen Sie jegliche Formulare mit unserem Formulargenerator!
+Unser Wordpress Plugin und unser Widget bieten Ihnen die Möglichkeit, Ihre FormForAll Formulare einfach in Ihre Menüleiste einzufügen und sie in Ihrer Wordpress Webseite zu integrieren. (Mehr über http://www.de.formforall.com)
 
-* Wtyczka do Wordpressa oraz widżet pozwalają wkleić w łatwy sposób formularze FormForAll do Twojego paska menu oraz połączyć je z Twoją stroną Wordpress. (Więcej informacji na temat http://www.pl.formforall.com)
+* Formularz kontaktowy, formularz rejestracji, formularz logowania, formularz subskrypcji, formularz rezerwacji, formularz sondażu, zapisy na wydarzenia, e-mail newsletter… Stwórz dowolny formularz za pomocą naszego kreatora formularzy!
+Wtyczka do Wordpressa oraz widżet pozwalają wkleić w łatwy sposób formularze FormForAll do Twojego paska menu oraz połączyć je z Twoją stroną Wordpress. (Więcej informacji na temat http://www.pl.formforall.com)
 
-* С помощью нашего подключаемого модуля Wordpress и нашего виджета вы можете легко вставлять ваши формы FormForAll в строку меню и интегрировать их в ваш сайт Wordpress. (Подробнее http://www.ru.formforall.com)
+* Форма контактов, форма подписки, форма входа, форма регистрации, форма бронирования, форма опроса, регистрация участия в событии, электронный бюллетеньи так далее. Создавайте любые формы с помощью нашего генератора форм!
+С помощью нашего подключаемого модуля Wordpress и нашего виджета вы можете легко вставлять ваши формы FormForAll в строку меню и интегрировать их в ваш сайт Wordpress. (Подробнее http://www.ru.formforall.com)
 
 For this plugin to work, you need:
 
