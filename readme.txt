@@ -1,7 +1,7 @@
 === Contact form builder FormForAll - Facebook & Google+ connect, Double opt-in, Responsive design, 20 languages === 
 Contributors: FormForAll
 Donate link: https://www.formforall.com/
-Tags: formforall, form4all, form for all, form, forms, online forms, form builder, lead generation, contact form, contact forms, surveys, order forms, online surveys, registration forms, event registration forms, lead generation form, multilingual, social login, Facebook connect, Facebook, responsive design, double opt-in, catalan, chinese (simple), czech, danish, dutch, english, french, german, italian, japanese, korean, polish, portuguese, slovak, spanish, russian, turkish, formulaire de contact, formulaire, formulario de contacto, formulario, Google+ connect, modulo di contatto, modulo, Kontaktformular, Formular, formularz kontaktowy, formularz, форма контактов, форма, social login form
+Tags: formforall, form4all, form for all, form, forms, online forms, form builder, lead generation, contact form, contact forms, surveys, order forms, online surveys, registration forms, event registration forms, lead generation form, multilingual, social login, Facebook connect, Facebook, responsive design, double opt-in, catalan, chinese (simple), czech, danish, dutch, english, french, german, italian, japanese, korean, polish, portuguese, slovak, spanish, russian, turkish, formulaire de contact, formulaire, formulario de contacto, formulario, Google+ connect, modulo di contatto, modulo, Kontaktformular, Formular, formularz kontaktowy, formularz, форма контактов, форма, social login form, formulário de contacto, formulário, Contactformulier, formulier, Iletisim formu, formu
 
 Requires at least: 3.5.1
 Tested up to: 3.5.2
@@ -33,6 +33,13 @@ Also vergeuden Sie nicht Ihre Zeit und Geld während FormForAll( http://www.de.f
 
 * Stwórz i zintegruj formularze z Twoją stroną w kilka sekund ( http://www.pl.formforall.com )
 
+* Codificar você próprio o seu formulário pode fazê-lo perder horas ou dias, se incluir funcionalidades como o SOCIAL LOGIN, o DOUBLE OPT-IN ou o MULTILINGUISMO. POUPE O SEU TEMPO e o seu DINHEIRO com FormForAll (http://www.pt.formforall.com), que o poderá fazer por si GRATUITAMENTE ou com o pagamento de uma subscrição mensal muito reduzida!
+
+* Zelf uw formulier coderen kan u veel tijd kosten naargelang u functies wil opnemen zoals SOCIAL LOGIN, DOUBLE OPT-IN of MEERTALIGE WEERGAVE. BESPAAR TIJD en GELD met FormForAll (http://www.nl.formforall.com ) die dit GRATIS voor u kan doen of tegen een zeer kleine maandelijkse bijdrage!
+
+* Formunuzu kendiniz kodlamaniz, SOSYAL, OTURUM AÇMA, ÇIFT ONAY veya ÇOK DILLILIK gibi islevselliklerin kullanimina kiyasla size saatler veya günler kaybettirebilir. Size bu hizmetleri ÜCRETSIZ OLARAK veya çok düsük bir aylik kayit ücreti karsiliginda verebilecek FormForAll  (http://www.tr.formforall.com ) ile ZAMANDAN VE PARADAN TASARRUF EDIN!
+
+
 DESCRIPTION
 
 Contact form, Sign-up form, Log-in form, Subscription form, Booking form, Survey form, Event registration, Email newsletter… Just do any form with our online form builder!
@@ -56,6 +63,15 @@ Wtyczka do Wordpressa oraz widżet pozwalają wkleić w łatwy sposób formularz
 
 * Форма контактов, форма подписки, форма входа, форма регистрации, форма бронирования, форма опроса, регистрация участия в событии, электронный бюллетеньи так далее. Создавайте любые формы с помощью нашего генератора форм!
 С помощью нашего подключаемого модуля Wordpress и нашего виджета вы можете легко вставлять ваши формы FormForAll в строку меню и интегрировать их в ваш сайт Wordpress. (Подробнее http://www.ru.formforall.com)
+
+* Formulário de contacto, formulário de Sign-up, formulário de Log-in, formulário de inscrição, formulário de reserva, formulário de sondagem, inscrição num acontecimento, e-mail newsletter, etc. Faça qualquer tipo de formulário com o nosso gerador de formulários!
+Com FormForAll, os seus formulários Wordpress são criados em alguns segundos! Basta transferir e instalar o nosso Wordpress form plugin, e é tudo! (Ver mais http://www.pt.formforall.com )
+
+* Contactformulier, registratieformulier, inlogformulier, inschrijvingsformulier, reserveringsformulier, enquêteformulier, inschrijving voor evenementen, e-mailnieuwsbrief… Met onze formbuilder creëert u op eenvoudige wijze elk type formulier!
+Met onze Wordpress-plugin en onze widget kunt u gemakkelijk uw FormForAll-formulieren in uw menubalk invoegen en deze integreren in uw Wordpress-website. (Meer weten http://www.nl.formforall.com )
+
+* Iletisim formu, Hesap olusturma formu, Oturum açma formu, kayit olma formu, rezervasyon formu, anket formu, bir etkinlik için kaydolma, e-bülten… Form üreticimizle her tür formu kolayca yapin !
+Wordpress eklentimiz ve widgetimiz FormForAll formlarinizi kolayca menü çubugunuza yerlestirmenizi ve bunlari Wordpress sitenize entegre etmenizi saglar. (Daha fazla bilgi edinin http://www.tr.formforall.com )
 
 For this plugin to work, you need:
 
