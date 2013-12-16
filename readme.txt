@@ -4,7 +4,7 @@ Donate link: https://www.formforall.com/
 Tags: formforall, form4all, form for all, form, forms, online forms, form builder, lead generation, contact form, contact forms, surveys, order forms, online surveys, registration forms, event registration forms, lead generation form, multilingual, social login, Facebook connect, Facebook, responsive design, double opt-in, catalan, chinese (simple), czech, danish, dutch, english, french, german, italian, japanese, korean, polish, portuguese, slovak, spanish, russian, turkish, formulaire de contact, formulaire, formulario de contacto, formulario, Google+ connect, modulo di contatto, modulo, Kontaktformular, Formular, formularz kontaktowy, formularz, форма контактов, форма, social login form, formulário de contacto, formulário, Contactformulier, formulier, Iletisim formu, formu
 
 Requires at least: 3.5.1
-Tested up to: 3.7.1
+Tested up to: 3.8
 Stable tag: 1.0
 
 Drag and Drop easy interface. Tens of predefined fields, including Connect with Facebook and Google+. Multilingual. Responsive design. Double opt-in.
