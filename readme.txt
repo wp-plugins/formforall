@@ -15,29 +15,7 @@ Drag and Drop easy interface. Tens of predefined fields, including Connect with 
 WHY FORMFORALL ?
 
 Coding yourself your forms will take you hours or days if you want to include features such as SOCIAL LOGIN, DOUBLE OPT-IN or MULTILINGUALISM.
-DON'T WASTE your TIME and MONEY while FormForAll (http://www.formforall.com ) can do it for you for FREE or for a MODERATE monthly subscription!
-
-* Coder vous-même votre formulaire peut vous faire perdre des heures ou des jours selon que vous incluiez des fonctionnalités comme le SOCIAL LOGIN, le DOUBLE OPT-IN ou le MULTILINGUISME. 
-ECONOMISEZ VOTRE TEMPS et votre ARGENT avec FormForAll (http://www.fr.formforall.com ), qui peut le faire GRATUITEMENT pour vous ou pour une très petite souscription mensuelle !
-
-* Codificar sus formularios va tomarle horas o días según que usted quería incluir funcionalidades como SOCIAL LOGIN, el DOBLE OPT-IN o el MULTILINGÜISMO.
-AHORRE tiempo y dinero con FormForAll ( http://www.es.formforall.com ), que puede hacerlo GRATUITAMENTE para usted o para una muy pequeña suscripción mensual!
-
-* Codificare il proprio modulo si può perdere ore o giorni a seconda se si include caratteristiche come SOCIALE LOGIN, DOUBLE OPT-IN o MULTILINGUISMO. 
-RISPARMIA tempo e denaro con FormForAll ( http://www.it.formforall.com ), che possono farlo GRATUITAMENTE per voi o per un abbonamento mensile molto piccolo!
-
-* Natürlich können Sie Ihr Formular codieren. Aber es wird Sie Stunden oder Tage dauern, je nachdem, ob Sie Funktionen wie SOZIAL LOGIN, DOUBLE OPT-IN-oder MEHRSPRACHIGKEIT aufnehmen möchten.
-Also vergeuden Sie nicht Ihre Zeit und Geld während FormForAll( http://www.de.formforall.com ) für Sie KOSTENLOS oder zu einem SEHR GERINGEN monatlichen Abonnement tun kann?
-
-* Создавайте и интегрируйте ваши формы в ваш сайт за несколько секунд ( http://www.ru.formforall.com )
-
-* Stwórz i zintegruj formularze z Twoją stroną w kilka sekund ( http://www.pl.formforall.com )
-
-* Codificar você próprio o seu formulário pode fazê-lo perder horas ou dias, se incluir funcionalidades como o SOCIAL LOGIN, o DOUBLE OPT-IN ou o MULTILINGUISMO. POUPE O SEU TEMPO e o seu DINHEIRO com FormForAll (http://www.pt.formforall.com), que o poderá fazer por si GRATUITAMENTE ou com o pagamento de uma subscrição mensal muito reduzida!
-
-* Zelf uw formulier coderen kan u veel tijd kosten naargelang u functies wil opnemen zoals SOCIAL LOGIN, DOUBLE OPT-IN of MEERTALIGE WEERGAVE. BESPAAR TIJD en GELD met FormForAll (http://www.nl.formforall.com ) die dit GRATIS voor u kan doen of tegen een zeer kleine maandelijkse bijdrage!
-
-* Formunuzu kendiniz kodlamaniz, SOSYAL, OTURUM AÇMA, ÇIFT ONAY veya ÇOK DILLILIK gibi islevselliklerin kullanimina kiyasla size saatler veya günler kaybettirebilir. Size bu hizmetleri ÜCRETSIZ OLARAK veya çok düsük bir aylik kayit ücreti karsiliginda verebilecek FormForAll  (http://www.tr.formforall.com ) ile ZAMANDAN VE PARADAN TASARRUF EDIN!
+DON'T WASTE your TIME and MONEY while FormForAll (http://www.formforall.com ) can do it for you! FREE trial.
 
 
 DESCRIPTION
@@ -115,9 +93,7 @@ Collect submissions data of your web users
 == Installation ==
 
 (For detailed explanations in English, you may click on http://blog.formforall.com/how-to-install-formforalls-wordpress-contact-form-plugin/ )
-
 (Pour le mode d'emploi de l'installation en français, allez sur  http://blog.formforall.com/comment-installer-le-plugin-formforall-pour-wordpress/ )
-
 (Para las instrucciones de instalación en español, ir a http://blog.formforall.com/como-instalar-el-plugin-formforall-para-wordpress/ )
 
 * .1. Open a free FormForAll form builder account.
