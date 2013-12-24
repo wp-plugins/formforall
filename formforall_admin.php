@@ -28,7 +28,7 @@ function formforall_plugin_init() {
  * JS registration
  */
 function formforall_register_tinymce_plugin($plugin_array) {
-    $plugin_array['formforall'] = plugins_url('/formforall/js/formforall.js', dirname(__FILE__));
+    $plugin_array['formforall'] = plugins_url( basename( __DIR__ ) . '/js/formforall.js' );
     return $plugin_array;
 }
 
