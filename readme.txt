@@ -1,7 +1,7 @@
-=== Contact form builder FormForAll - Facebook & Google+ connect, Double opt-in, Responsive design, 20 languages === 
+=== Contact form builder FormForAll - Facebook & Google+ connect, Double opt-in, Responsive design, 35 languages === 
 Contributors: FormForAll
 Donate link: https://www.formforall.com/
-Tags: formforall, form4all, form for all, form, forms, online forms, form builder, lead generation, contact form, contact forms, surveys, order forms, online surveys, registration forms, event registration forms, lead generation form, multilingual, social login, Facebook connect, Facebook, responsive design, double opt-in, catalan, chinese (simple), czech, danish, dutch, english, french, german, italian, japanese, korean, polish, portuguese, slovak, spanish, russian, turkish, formulaire de contact, formulaire, formulario de contacto, formulario, Google+ connect, modulo di contatto, modulo, Kontaktformular, Formular, formularz kontaktowy, formularz, форма контактов, форма, social login form, formulário de contacto, formulário, Contactformulier, formulier, Iletisim formu, formu
+Tags: formforall, form4all, form for all, form, forms, online forms, form builder, lead generation, contact form, contact forms, surveys, order forms, online surveys, registration forms, event registration forms, lead generation form, multilingual, social login, Facebook connect, Facebook, responsive design, double opt-in, arabic, bengali, bulgarian, catalan, chinese (simple), czech, danish, dutch, english, estonian, finnish, french, flemmish, georgian, german, greek, hebrew, hindi, hungarian, indonesian, italian, japanese, korean, lithuanian, norwegian, persian, polish, portuguese, slovak, spanish, swedish, russian, turkish, ukrainian, formulaire de contact, formulaire, formulario de contacto, formulario, Google+ connect, modulo di contatto, modulo, Kontaktformular, Formular, formularz kontaktowy, formularz, форма контактов, форма, social login form, formulário de contacto, formulário, Contactformulier, formulier, Iletisim formu, formu
 
 Requires at least: 3.5.1
 Tested up to: 3.8
@@ -60,9 +60,44 @@ FEATURES
 
 Create your forms in seconds:
 
-* Easy Drag and Drop interface.
-* MULTILINGUAL form: build your form in your own language and have it displayed in 20 western and Asian LANGUAGES: catalan, chinese (simple), czech, danish, dutch, english (us), english (uk), flemish, french, german, hungarian, italian, japanese, korean, polish, portuguese, slovak, spanish, russian, turkish.
-* An extensive selection of forms fields: predefined ones (log-in, sign-up, name, address, identity, credit card, date / time...), customized fields (text, radio buttons, check boxes, file uploads).
+* Easy DRAG & DROP interface.
+* MULTILINGUAL form: build your form in your own language and have it displayed in 35 LANGUAGES: 
+  * arabic,
+  * bengali,
+  * bulgarian,
+  * catalan, 
+  * chinese (simple),
+  * czech,
+  * danish,
+  * dutch,
+  * english (us),
+  * english (uk),
+  * estonian,
+  * finnish,
+  * flemish,
+  * french,
+  * georgian,
+  * german,
+  * greek,
+  * hebrew,
+  * hindi,
+  * hungarian,
+  * indonesian,
+  * italian,
+  * japanese, 
+  * korean,
+  * lithuanian,
+  * norwegian,
+  * persian,
+  * polish, 
+  * portuguese, 
+  * slovak, 
+  * spanish,
+  * swedish,
+  * russian, 
+  * turkish,
+  * ukrainian.
+* An EXTENSIVE SELECTION OF FORM FIELDS: predefined ones (log-in, sign-up, name, address, identity, credit card, date / time...), customized fields (text, radio buttons, check boxes, file uploads).
 * SOCIAL LOG-IN - SOCIAL SIGN-IN/ Connect with FACEBOOK and GOOGLE+: insert our Connect with Facebook / Google+ social login field into your forms in 2 seconds instead of days! And have your web users fill in their info with their social network identity.
 * DOUBLE OPT-IN : When your web users submit their form, an e-mail with a verification link is sent to their declared e-mail address. When the web user clicks on the link in the e-mail, we pass the information on to you.
 
