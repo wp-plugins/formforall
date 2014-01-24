@@ -1,4 +1,4 @@
-=== FormForAll, The Universal Form Builder - Easy to use, fast, 35 languages. === 
+=== FormForAll, The Universal Contact Form Builder - Easy to use, fast, 35 languages. === 
 Contributors: FormForAll
 Donate link: https://www.formforall.com/
 Tags: formforall, form4all, form for all, form, forms, online forms, form builder, lead generation, contact form, contact forms, surveys, order forms, online surveys, registration forms, event registration forms, lead generation form, multilingual, social login, Facebook connect, Facebook, responsive design, double opt-in, arabic, bengali, bulgarian, catalan, chinese (simple), czech, danish, dutch, english, estonian, finnish, french, flemmish, georgian, german, greek, hebrew, hindi, hungarian, indonesian, italian, japanese, korean, lithuanian, norwegian, persian, polish, portuguese, slovak, spanish, swedish, russian, turkish, ukrainian, formulaire de contact, formulaire, formulario de contacto, formulario, Google+ connect, modulo di contatto, modulo, Kontaktformular, Formular, formularz kontaktowy, formularz, форма контактов, форма, social login form, formulário de contacto, formulário, Contactformulier, formulier, Iletisim formu, formu
@@ -12,7 +12,7 @@ Drag and Drop interface. Tens of predefined fields, including Connect with Faceb
 
 
 == Description ==
-With <a href="http://www.formforall.com" rel="nofollow">FORMFORALL</a>, create and launch your online forms <a href="http://www.formforall.com" rel="nofollow">IN SECONDS</a>!</p>
+With <a href="http://www.formforall.com" rel="nofollow" target="_blank">FORMFORALL</a>, create and launch your online forms <a href="http://www.formforall.com" rel="nofollow">IN SECONDS</a>!</p>
 <p><a href="http://www.formforall.com/features" rel="nofollow">EXCLUSIVE FEATURES</a>: Connect with Facebook Form, Google+ Form, Double opt-in form, forms in 35 languages.</p>
 <p><a href="http://www.formforall.com/pricing" rel="nofollow">FREE PLAN</a> available and <a href="http://www.formforall.com/pricing" rel="nofollow">1st MONTH FREE</a> on all paid plans. No engagement.</p>
 
