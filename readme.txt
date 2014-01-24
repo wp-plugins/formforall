@@ -1,4 +1,4 @@
-=== Contact form builder FormForAll - Facebook & Google+ connect, Double opt-in, Responsive design, 35 languages === 
+=== FormForAll, The Universal Form Builder - Easy to use, fast, 35 languages. === 
 Contributors: FormForAll
 Donate link: https://www.formforall.com/
 Tags: formforall, form4all, form for all, form, forms, online forms, form builder, lead generation, contact form, contact forms, surveys, order forms, online surveys, registration forms, event registration forms, lead generation form, multilingual, social login, Facebook connect, Facebook, responsive design, double opt-in, arabic, bengali, bulgarian, catalan, chinese (simple), czech, danish, dutch, english, estonian, finnish, french, flemmish, georgian, german, greek, hebrew, hindi, hungarian, indonesian, italian, japanese, korean, lithuanian, norwegian, persian, polish, portuguese, slovak, spanish, swedish, russian, turkish, ukrainian, formulaire de contact, formulaire, formulario de contacto, formulario, Google+ connect, modulo di contatto, modulo, Kontaktformular, Formular, formularz kontaktowy, formularz, форма контактов, форма, social login form, formulário de contacto, formulário, Contactformulier, formulier, Iletisim formu, formu
@@ -6,130 +6,93 @@ Tags: formforall, form4all, form for all, form, forms, online forms, form builde
 Requires at least: 3.5.1
 Tested up to: 3.8
 Stable tag: 1.0
+License: GPLv2 or later
 
-Drag and Drop easy interface. Tens of predefined fields, including Connect with Facebook and Google+. Multilingual. Responsive design. Double opt-in.
+Drag and Drop interface. Tens of predefined fields, including Connect with Facebook and Google+. 35 languages. Responsive design. Double opt-in.
 
 
 == Description ==
-
-WHY FORMFORALL ?
-
-Coding yourself your forms will take you hours or days if you want to include features such as SOCIAL LOGIN, DOUBLE OPT-IN or MULTILINGUALISM.
-DON'T WASTE your TIME and MONEY while FormForAll (http://www.formforall.com ) can do it for you! FREE trial.
-
-
-DESCRIPTION
-
-Contact form, Sign-up form, Log-in form, Subscription form, Booking form, Survey form, Event registration, Email newsletter… Just do any form with our online form builder!
-
-Our FormForAll plugin and widget allows you to easily insert your FormForAll forms into your sidebar and to embed them into your Wordpress site.
-
-* Formulaire de contact, formulaire de Sign-up, formulaire de Log-in, formulaire d'inscription, formulaire de réservation, formulaire de sondage, inscription à un évènement, email newsletter… Faites tout simplement n'importe quel formulaire avec notre générateur de formulaire !
-Nos plugin et widget FormForAll vous permettent d'insérer facilement vos formulaires FormForAll dans votre barre de menu et de les intégrer dans votre site Wordpress. (Plus d'infos sur http://www.fr.formforall.com )
-
-* Formulario de contacto, formulario de Sign-up, formulario de Log-in, formulario de inscripción, formulario de reserva, formulario de sondeo, inscripción a un evento, e-mail newsletter… Con nuestro creador podrá generar cualquier tipo de formulario.
-Nuestro plugin FormForAll y widget le permite insertar fácilmente los formularios FormForAll en tu barra lateral e incrustarlos en tu sitio de WordPress. (Más info en http://www.es.formforall.com )
-
-* Modulo di contatto, modulo di registrazione, modulo di accesso, modulo di registrazione, modulo di prenotazione, modulo di sondaggio, iscrizione a un evento, newsletter... Crea facilmente qualsiasi modulo con il nostro generatore di moduli!
-Il nostro plugin per Wordpress e il nostro widget permettono di inserire facilmente i moduli FormForAll nella barra dei menu e di integrarli nel tuo sito Wordpress. (Maggiori informazioni su http://www.it.formforall.com)
-
-* Kontaktformular, Sign-up-Formular, Log-in-Formular, Anmeldeformular, Buchungsformular, Umfrageformular, Anmeldung zu einem Event, E-Mail-Newsletter Erstellen Sie jegliche Formulare mit unserem Formulargenerator!
-Unser Wordpress Plugin und unser Widget bieten Ihnen die Möglichkeit, Ihre FormForAll Formulare einfach in Ihre Menüleiste einzufügen und sie in Ihrer Wordpress Webseite zu integrieren. (Mehr über http://www.de.formforall.com)
-
-* Formularz kontaktowy, formularz rejestracji, formularz logowania, formularz subskrypcji, formularz rezerwacji, formularz sondażu, zapisy na wydarzenia, e-mail newsletter… Stwórz dowolny formularz za pomocą naszego kreatora formularzy!
-Wtyczka do Wordpressa oraz widżet pozwalają wkleić w łatwy sposób formularze FormForAll do Twojego paska menu oraz połączyć je z Twoją stroną Wordpress. (Więcej informacji na temat http://www.pl.formforall.com)
-
-* Форма контактов, форма подписки, форма входа, форма регистрации, форма бронирования, форма опроса, регистрация участия в событии, электронный бюллетеньи так далее. Создавайте любые формы с помощью нашего генератора форм!
-С помощью нашего подключаемого модуля Wordpress и нашего виджета вы можете легко вставлять ваши формы FormForAll в строку меню и интегрировать их в ваш сайт Wordpress. (Подробнее http://www.ru.formforall.com)
-
-* Formulário de contacto, formulário de Sign-up, formulário de Log-in, formulário de inscrição, formulário de reserva, formulário de sondagem, inscrição num acontecimento, e-mail newsletter, etc. Faça qualquer tipo de formulário com o nosso gerador de formulários!Com FormForAll, os seus formulários Wordpress são criados em alguns segundos! Basta transferir e instalar o nosso Wordpress form plugin, e é tudo! (Ver mais http://www.pt.formforall.com )
-* Contactformulier, registratieformulier, inlogformulier, inschrijvingsformulier, reserveringsformulier, enquêteformulier, inschrijving voor evenementen, e-mailnieuwsbrief… Met onze formbuilder creëert u op eenvoudige wijze elk type formulier!
-Met onze Wordpress-plugin en onze widget kunt u gemakkelijk uw FormForAll-formulieren in uw menubalk invoegen en deze integreren in uw Wordpress-website. (Meer weten http://www.nl.formforall.com )
-
-* Iletisim formu, Hesap olusturma formu, Oturum açma formu, kayit olma formu, rezervasyon formu, anket formu, bir etkinlik için kaydolma, e-bülten… Form üreticimizle her tür formu kolayca yapin !
-Wordpress eklentimiz ve widgetimiz FormForAll formlarinizi kolayca menü çubugunuza yerlestirmenizi ve bunlari Wordpress sitenize entegre etmenizi saglar. (Daha fazla bilgi edinin http://www.tr.formforall.com )
+With <a href="http://www.formforall.com" rel="nofollow">FORMFORALL</a>, create and launch your online forms <a href="http://www.formforall.com" rel="nofollow">IN SECONDS</a>!</p>
+<p><a href="http://www.formforall.com/features" rel="nofollow">EXCLUSIVE FEATURES</a>: Connect with Facebook Form, Google+ Form, Double opt-in form, forms in 35 languages.</p>
+<p><a href="http://www.formforall.com/pricing" rel="nofollow">FREE PLAN</a> available and <a href="http://www.formforall.com/pricing" rel="nofollow">1st MONTH FREE</a> on all paid plans. No engagement.</p>
 
 For this plugin to work, you need:
 
 * to open a FormForAll account: signup for free at https://www.formforall.com and test our plans freely for one month.
 * to use our User API key (refer to http://blog.formforall.com/ ).
 
+<h4>DESCRIPTION</h4>
+
+Contact form, Sign-up form, Log-in form, Subscription form, Booking form, Survey form, Event registration, Email newsletter… Just do any form with our online form builder!
+
+Our FormForAll plugin and widget allows you to easily insert your FormForAll forms into your sidebar and to embed them into your Wordpress site.
+
+* <a href="http://www.fr.formforall.com" rel="nofollow">Français</a>: Formulaire de contact, formulaire de Sign-up, formulaire de Log-in, formulaire d'inscription, formulaire de réservation, formulaire de sondage, email newsletter… Faites tout simplement n'importe quel formulaire avec notre générateur de formulaire !
+Nos plugin et widget FormForAll vous permettent d'insérer facilement vos formulaires FormForAll dans votre barre de menu et de les intégrer dans votre site Wordpress. (Plus d'infos sur http://www.fr.formforall.com )
+
+* <a href="http://www.es.formforall.com" rel="nofollow">Español</a>: Formulario de contacto, formulario de Sign-up, formulario de Log-in, formulario de inscripción, formulario de reserva, formulario de sondeo, e-mail newsletter… Con nuestro creador podrá generar cualquier tipo de formulario.
+Nuestro plugin FormForAll y widget le permite insertar fácilmente los formularios FormForAll en tu barra lateral e incrustarlos en tu sitio de WordPress. (Más info en http://www.es.formforall.com )
+
+* <a href="http://www.it.formforall.com" rel="nofollow">Italiano</a>: Modulo di contatto, modulo di registrazione, modulo di accesso, modulo di registrazione, modulo di prenotazione, modulo di sondaggio, newsletter... Crea facilmente qualsiasi modulo con il nostro generatore di moduli!
+Il nostro plugin per Wordpress e il nostro widget permettono di inserire facilmente i moduli FormForAll nella barra dei menu e di integrarli nel tuo sito Wordpress. (Maggiori informazioni su http://www.it.formforall.com)
+
+* <a href="http://www.de.formforall.com" rel="nofollow">Deutsch</a>: Kontaktformular, Sign-up-Formular, Log-in-Formular, Anmeldeformular, Buchungsformular, Umfrageformular, E-Mail-Newsletter Erstellen Sie jegliche Formulare mit unserem Formulargenerator!
+Unser Wordpress Plugin und unser Widget bieten Ihnen die Möglichkeit, Ihre FormForAll Formulare einfach in Ihre Menüleiste einzufügen und sie in Ihrer Wordpress Webseite zu integrieren. (Mehr über http://www.de.formforall.com)
+
+* <a href="http://www.pl.formforall.com" rel="nofollow">Polski</a>: Formularz kontaktowy, formularz rejestracji, formularz logowania, formularz subskrypcji, formularz rezerwacji, formularz sondażu, e-mail newsletter… Stwórz dowolny formularz za pomocą naszego kreatora formularzy!
+Wtyczka do Wordpressa oraz widżet pozwalają wkleić w łatwy sposób formularze FormForAll do Twojego paska menu oraz połączyć je z Twoją stroną Wordpress. (Więcej informacji na temat http://www.pl.formforall.com)
+
+* <a href="http://www.ru.formforall.com" rel="nofollow">Русский</a>: Форма контактов, форма подписки, форма входа, форма регистрации, форма бронирования, форма опроса, электронный бюллетеньи так далее. Создавайте любые формы с помощью нашего генератора форм!
+С помощью нашего подключаемого модуля Wordpress и нашего виджета вы можете легко вставлять ваши формы FormForAll в строку меню и интегрировать их в ваш сайт Wordpress. (Подробнее http://www.ru.formforall.com)
+
+* <a href="http://www.pt.formforall.com" rel="nofollow">Português</a>: Formulário de contacto, formulário de Sign-up, formulário de Log-in, formulário de inscrição, formulário de reserva, formulário de sondagem, e-mail newsletter, etc. Faça qualquer tipo de formulário com o nosso gerador de formulários!Com FormForAll, os seus formulários Wordpress são criados em alguns segundos! Basta transferir e instalar o nosso Wordpress form plugin, e é tudo! (Ver mais http://www.pt.formforall.com )
+
+* <a href="http://www.nl.formforall.com" rel="nofollow">Nederlands</a>: Contactformulier, registratieformulier, inlogformulier, inschrijvingsformulier, reserveringsformulier, enquêteformulier, inschrijving voor evenementen, e-mailnieuwsbrief… Met onze formbuilder creëert u op eenvoudige wijze elk type formulier!
+Met onze Wordpress-plugin en onze widget kunt u gemakkelijk uw FormForAll-formulieren in uw menubalk invoegen en deze integreren in uw Wordpress-website. (Meer weten http://www.nl.formforall.com )
+
+* <a href="http://www.tr.formforall.com" rel="nofollow">Türkçe</a>: Iletisim formu, Hesap olusturma formu, Oturum açma formu, kayit olma formu, rezervasyon formu, anket formu, e-bülten… Form üreticimizle her tür formu kolayca yapin !
+Wordpress eklentimiz ve widgetimiz FormForAll formlarinizi kolayca menü çubugunuza yerlestirmenizi ve bunlari Wordpress sitenize entegre etmenizi saglar. (Daha fazla bilgi edinin http://www.tr.formforall.com )
 
 
-FEATURES
+<h4>FEATURES</h4>
 
-Create your forms in seconds:
+* <a href="http://www.formforall.com/features" rel="nofollow">DRAG & DROP</a> interface.
+* <a href="http://www.formforall.com/features#formfields" rel="nofollow">EXTENSIVE SELECTION OF FORM FIELDS</a>: predefined fields (log-in, sign-up, name, address, identity, credit card, date / time...), customized fields (text, radio buttons, check boxes).
+* <a href="http://www.formforall.com/features#formfields" rel="nofollow">FILE UPLOAD</a>
+* <a href="http://www.formforall.com/features#sociallogin" rel="nofollow">Connect with FACEBOOK and GOOGLE+</a>: insert our Connect with Facebook / Google+ social login field into your forms and have your web users fill in their info with their social network identity.
+* <a href="http://www.formforall.com/features#optin" rel="nofollow">DOUBLE OPT-IN</a>: When your web users submit their form, an e-mail with a verification link is sent to their declared e-mail address. When the web user clicks on the link in the e-mail, we pass the information on to you.
+* <a href="http://www.formforall.com/features#captcha" rel="nofollow">SSL, RSA key, Captcha.</a>
+* <a href="http://www.formforall.com/features" rel="nofollow">Your logo, font, size, colors</a>: choose whatever you want, or create your own custom CSS.
+* <a href="http://www.formforall.com/features#compatibility" rel="nofollow">RESPONSIVE DESIGN</a>: all forms you create are in responsive design (compatible with all Smartphones, tablets and PC''s).
+* <a href="http://www.formforall.com/features#notifications" rel="nofollow">NOTIFICATION EMAILS</a>: we send you an e-mail as soon as a form has been submitted including all details.
+* <a href="http://www.formforall.com/features#submissionconfirmation" rel="nofollow">CONFIRMATION EMAILS</a>: every time a form is submitted, we send a confirmation e-mail on your behalf to your web users.
+* <a href="http://www.formforall.com/features#submissionconfirmation" rel="nofollow">FORM SUBMISSION MESSAGE or REDIRECTION</a>: a default message can be displayed to the user once the form is submitted, or the user can be redirected to the URL of your choice.
+* <a href="http://www.formforall.com/tour#collect" rel="nofollow">DATA COLLECTION</a>You can export submitted data using our Export CSV or on a real time basis using our API.
 
-* Easy DRAG & DROP interface.
-* MULTILINGUAL form: build your form in your own language and have it displayed in 35 LANGUAGES: 
-  * arabic,
-  * bengali,
-  * bulgarian,
-  * catalan, 
-  * chinese (simple),
-  * czech,
-  * danish,
-  * dutch,
-  * english (us),
-  * english (uk),
-  * estonian,
-  * finnish,
-  * flemish,
-  * french,
-  * georgian,
-  * german,
-  * greek,
-  * hebrew,
-  * hindi,
-  * hungarian,
-  * indonesian,
-  * italian,
-  * japanese, 
-  * korean,
-  * lithuanian,
-  * norwegian,
-  * persian,
-  * polish, 
-  * portuguese, 
-  * slovak, 
-  * spanish,
-  * swedish,
-  * russian, 
-  * turkish,
-  * ukrainian.
-* An EXTENSIVE SELECTION OF FORM FIELDS: predefined ones (log-in, sign-up, name, address, identity, credit card, date / time...), customized fields (text, radio buttons, check boxes, file uploads).
-* SOCIAL LOG-IN - SOCIAL SIGN-IN/ Connect with FACEBOOK and GOOGLE+: insert our Connect with Facebook / Google+ social login field into your forms in 2 seconds instead of days! And have your web users fill in their info with their social network identity.
-* DOUBLE OPT-IN : When your web users submit their form, an e-mail with a verification link is sent to their declared e-mail address. When the web user clicks on the link in the e-mail, we pass the information on to you.
+<h4>35 LANGUAGES</h4>
 
-Settings options:
+Build your form in one of our 35 languages and have it displayed in all 35 languages: 
 
-* All forms are in responsive design (compatible with all Smartphones, tablets and PC''s)
-* Insertion of your logo.
-* Choice of font, size, color, custom CSS.
-* SSL, RSA key, Captcha.
-* Notification emails: we can send you an e-mail as soon as a form has been submitted. You can then export submitted data using our Export CSV or on a real time basis using our API.
-* Confirmation emails: every time a form is submitted, we can send a confirmation e-mail on your behalf to your web users.
-* Form submission message or redirection: a default message can be displayed to the user once the form is submitted, or the user can be redirected to the URL of your choice.
+<p>* Arabic, Bengali, Bulgarian, Catalan, Chinese (simple), Czech, Danish, Dutch, English(us), English(uk), Estonian, Finnish, Flemish, French, Georgian, German, Greek, Hebrew, Hindi, Hungarian, Indonesian, Italian, Japanese, Korean, Lithuanian, Norwegian, Persian, Polish, Portuguese, Slovak, Spanish, Swedish, Russian, Turkish, Ukrainian.</p>
+<p>* Looking for a 36th language ? <a href="http://www.formforall.com/contact" rel="nofollow">Tell us!</a></p>
 
-
-Publish your form online:
+<h4>PUBLISHING</h4>
 
 * Our FormForAll plugin and widget allows you to easily insert your FomForAll forms into your sidebar and to embed them into your Wordpress site wherever you want.
 * If you want to include one of your form in an e-mail, we provide you with a hosted URL.
 * Alternatively, we can also provide you with a JavaScript that you just have to copy / paste, which will embed your form on a HTML page of your site.
 
-Collect submissions data of your web users
-
-* By Export CSV or with our Records API ( https://www.formforall.com/documentation#api ).
+<h4>DATA COLLECTION</h4>
+ 
+* <a href="http://www.formforall.com/features#submissionconfirmation" rel="nofollow">CONFIRMATION EMAILS</a>: every time a form is submitted, we send a confirmation e-mail on your behalf to your web users.
+* <a href="http://www.formforall.com/tour#collect" rel="nofollow">DATA COLLECTION</a>You can export submitted data using our Export CSV or on a real time basis using our API. ( https://www.formforall.com/documentation#api ).
 * Activity reports. 
 
 == Installation ==
 
-(For detailed explanations in English, you may click on http://blog.formforall.com/how-to-install-formforalls-wordpress-contact-form-plugin/ )
-(Pour le mode d'emploi de l'installation en français, allez sur  http://blog.formforall.com/comment-installer-le-plugin-formforall-pour-wordpress/ )
-(Para las instrucciones de instalación en español, ir a http://blog.formforall.com/como-instalar-el-plugin-formforall-para-wordpress/ )
+<a href="http://blog.formforall.com/how-to-install-formforalls-wordpress-contact-form-plugin/" rel="nofollow">Detailed explanations</a> / <a href="http://blog.formforall.com/comment-installer-le-plugin-formforall-pour-wordpress/" rel="nofollow">Mode d'emploi détaillé</a> / <a href="http://blog.formforall.com/como-instalar-el-plugin-formforall-para-wordpress/" rel="nofollow">Instrucciones de instalación</a>
 
-* .1. Open a free FormForAll form builder account.
+* .1. Open a FormForAll form builder account: https://www.formforall.com (we have a free plan / on all paid plans, the 1st month is free, and you have no further engagement.)
 * .2. Through your WordPress menu, click on Plugins and type FormForAll on the search box.
 * .3. Once you have found our WordPress contact form FormForAll plugin, click on Install now.
 * .4. A new window opens. Click on Install now.
@@ -144,27 +107,43 @@ Collect submissions data of your web users
 
 
 == Frequently Asked Questions ==
-What do I need to do first ?
-
+<h4>What do I need to do first ?</h4>
 Open an account on https://www.formforall.com . It is free.
 
-How much will it cost me then ?
-
-We have a free and premium monthly plans. You can resign your monthly plans at any time. 
+<h4>How much will it cost me then ?</h4>
+We have <a href="http://www.formforall.com/pricing" rel="nofollow">a free and premium monthly plans</a>. You can resign your monthly plans at any time. 
 You have a 7 day satisfied or reimbursed guaranty.
 And your first monthly payment is offered so that you can test us for free.
 
-Where can I find my FormForAll User API key?
+<h4>What is included in the free plan ?</h4>
+With our free plan, you can create and publish as many forms as you want providing none of them include more than 5 fields and you remain below 100 submissions per month.
 
+<h4>In your free plan, 5 fields isn't a lot!</h4>
+The way we count our fields for our pricing is slightly different from others. For example:
+<p>Name: Firstname and Lastname are counted as 1 field.</p>
+<p>Adress:Street, city, zip code, state, country are counted as 1 field.</p>
+<p>Login: ID and password are counted as 1 field.</p>
+<p>Signup: ID and password are counted as 1 field.</p>
+<p>and so on...</p>
+
+<h4>Where can I find my FormForAll User API key?</h4>
 To get your FormForAll User API key, login to your FormForAll account
 (https://www.formforall.com) then go to ‘My Account’ then to ‘User API key’.
 
 == Screenshots ==
 
-== Changelog ==
+<li>
+		<a href=http://blog.formforall.com/wp-admin/post.php?post=217&action=edit' title='Click to view full-size screenshot 1' rel="nofollow"><img class='screenshot' src=http://blog.formforall.com/wp-admin/post.php?post=217&action=edit' /></a>
+		<p>Builder tools.</p>
+	</li>
 
-= 1.1 =
+
+== Changelog ==
+<h4>V2.4 - 22.01.2014</h4>
+* 15 new languages
+
+<h4>V1.7 - 23.12.2013</h4>
 * Wordpress 3.8 support
 
-= 1.0 =
+<h4>V1.2</h4>
 * Initial release.
