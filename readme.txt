@@ -110,6 +110,9 @@ Build your form in one of our 35 languages and have it displayed in all 35 langu
 <h4>What do I need to do first ?</h4>
 Open an account on https://www.formforall.com . It is free.
 
+<h4>How do I add a form to my site ?</h4>
+Once you have opened a FormForAll account and you have installed our plugin, you'll see our little FormForAll logo at the right end of your WordPress toolbar menu. If you click on it, all forms you have created on your FormForAll online form builder account appear there. Just select one form and click on “Add a form” to insert it wherever you want on your WordPress site!
+
 <h4>How much will it cost me then ?</h4>
 We have <a href="http://www.formforall.com/pricing" rel="nofollow">a free and premium monthly plans</a>. You can resign your monthly plans at any time. 
 You have a 7 day satisfied or reimbursed guaranty.
@@ -126,9 +129,15 @@ The way we count our fields for our pricing is slightly different from others. F
 <p>Signup: ID and password are counted as 1 field.</p>
 <p>and so on...</p>
 
-<h4>Where can I find my FormForAll User API key?</h4>
+<h4>Where can I find my FormForAll User API key ?</h4>
 To get your FormForAll User API key, login to your FormForAll account
 (https://www.formforall.com) then go to ‘My Account’ then to ‘User API key’.
+
+<h4>How to have my form in different languages ?</h4>
+When you have finished creating your form on your FormForAll account, you'll find in the SETTINGS menu our LANGUAGE submenu. There, Select our Multilingual Display option, and when a web user sees your form, labels will automatically be displayed in their own language based on the language defined in their browser or in the default language selected above if their language is not yet supported. Users can also manually change the language to suit their own preferences by selecting their prefered language from the list.
+
+<h4>Need any assistance ?</h4>
+Do not hesitate! We are here to help you! Contact us at: http://www.formforall.com/contact
 
 == Screenshots ==
 
@@ -139,11 +148,11 @@ To get your FormForAll User API key, login to your FormForAll account
 
 
 == Changelog ==
-<h4>V2.4 - 22.01.2014</h4>
+<h4>22.01.2014</h4>
 * 15 new languages
 
-<h4>V1.7 - 23.12.2013</h4>
+<h4>V1.1 - 23.12.2013</h4>
 * Wordpress 3.8 support
 
-<h4>V1.2</h4>
+<h4>V1.0</h4>
 * Initial release.
