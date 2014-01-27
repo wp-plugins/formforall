@@ -119,7 +119,7 @@ jQuery(document).ready(function($) {
 	refresh : function(jsonData) {
 	    $('#formforall-formcontent').show();
 	    $('#formforall-error').hide();
-	    $('#formforall-formid').empty();
+	    $('select#formforall-formid').empty();
 	    if (jsonData != undefined) {
 		jsonData = $.parseJSON(jsonData);
 		$(jsonData).each (function(){
@@ -131,8 +131,8 @@ jQuery(document).ready(function($) {
 		    }
 		    
 		    if (isAllowed) {
-			if (ajaxForm.currentselect != '' && ajaxForm.currentselect == this.id) $('#formforall-formid').append($('<option>', {value: this.id, text: this.title, selected: "selected"}));
-			else $('#formforall-formid').append($('<option>', {value: this.id, text: this.title}));
+			if (ajaxForm.currentselect != '' && ajaxForm.currentselect == this.id) $('select#formforall-formid').append($('<option>', {value: this.id, text: this.title, selected: "selected"}));
+			else $('select#formforall-formid').append($('<option>', {value: this.id, text: this.title}));
 		    } 
 		});
 	    }
