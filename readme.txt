@@ -142,8 +142,20 @@ Do not hesitate! We are here to help you! Contact us at: http://www.formforall.c
 == Screenshots ==
 
 1. Control panel
-2. Creating a form / step 1: give a name to your form and select the language in which you want to build it
-
+2. Creating a form / step 1: give a name to your form and select the language in which you want to build it.
+3. Creating a form / step 2: to start building your form, simply drag & drop the fields from the Form Builder Toolbar.
+4. Each field has options that you can select by a quick click.
+5. Our Social login field : Let your users connect with their Facebook or Google+ identity.
+6. Settings: once your form is built, select the default language in which it will be displayed, and whether you want a multilingual display.
+7. you may upload your logo at the top of your form.
+8. you define your font, size and colors. Or your own CSS.
+9. you may use SSL for your form (https:// ....)
+10. You may include a Captcha at the bottom of your form.
+11. One of our exclusive feature : double opt-in!
+12. Notification e-mails, confirmation e-mails, submission message menu.
+13. Publishing : link to share to be used in an e-mail newsletter.
+14. With our partner Zapier, more than 260 applications to integrate your form with.
+15. Our records API Key, to get all your submissions in real time.
 
 == Changelog ==
 <h4>22.01.2014</h4>
