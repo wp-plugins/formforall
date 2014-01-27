@@ -141,10 +141,8 @@ Do not hesitate! We are here to help you! Contact us at: http://www.formforall.c
 
 == Screenshots ==
 
-<li>
-		<a href=http://blog.formforall.com/wp-admin/post.php?post=217&action=edit' title='Click to view full-size screenshot 1' rel="nofollow"><img class='screenshot' src=http://blog.formforall.com/wp-admin/post.php?post=217&action=edit' /></a>
-		<p>Builder tools.</p>
-	</li>
+1. Control pannel
+2. Creating a form / step 1: give a name to your form and select the language in which you want to build it
 
 
 == Changelog ==
