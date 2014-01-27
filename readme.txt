@@ -141,7 +141,7 @@ Do not hesitate! We are here to help you! Contact us at: http://www.formforall.c
 
 == Screenshots ==
 
-1. Control pannel
+1. Control panel
 2. Creating a form / step 1: give a name to your form and select the language in which you want to build it
 
 
