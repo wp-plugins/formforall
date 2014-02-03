@@ -1,4 +1,4 @@
-=== Contact form FormForAll - Easy to use, fast, 35 languages. === 
+=== Contact form Form For All - Easy to use, fast, 35 languages. === 
 Contributors: FormForAll
 Donate link: https://www.formforall.com/
 Tags: formforall, form4all, form for all, form, forms, online forms, form builder, lead generation, contact form, contact forms, surveys, order forms, online surveys, registration forms, event registration forms, lead generation form, multilingual, social login, Facebook connect, Facebook, responsive design, double opt-in, arabic, bengali, bulgarian, catalan, chinese (simple), czech, danish, dutch, english, estonian, finnish, french, flemmish, georgian, german, greek, hebrew, hindi, hungarian, indonesian, italian, japanese, korean, lithuanian, norwegian, persian, polish, portuguese, slovak, spanish, swedish, russian, turkish, ukrainian, formulaire de contact, formulaire, formulario de contacto, formulario, Google+ connect, modulo di contatto, modulo, Kontaktformular, Formular, formularz kontaktowy, formularz, форма контактов, форма, social login form, formulário de contacto, formulário, Contactformulier, formulier, Iletisim formu, formu
@@ -12,13 +12,13 @@ Drag and Drop interface. Tens of predefined fields, including Connect with Faceb
 
 
 == Description ==
-With <a href="http://www.formforall.com" rel="nofollow" target="_blank">FORMFORALL</a>, create and launch your online forms <a href="http://www.formforall.com" rel="nofollow">IN SECONDS</a>!</p>
+With <a href="http://www.formforall.com" rel="nofollow" target="_blank">FORM FOR ALL</a>, create and launch your online forms <a href="http://www.formforall.com" rel="nofollow">IN SECONDS</a>!</p>
 <p><a href="http://www.formforall.com/features" rel="nofollow">EXCLUSIVE FEATURES</a>: Connect with Facebook Form, Google+ Form, Double opt-in form, forms in 35 languages.</p>
 <p><a href="http://www.formforall.com/pricing" rel="nofollow">FREE PLAN</a> available and <a href="http://www.formforall.com/pricing" rel="nofollow">1st MONTH FREE</a> on all paid plans. No engagement.</p>
 
 For this plugin to work, you need:
 
-* to open a FormForAll account: signup for free at https://www.formforall.com and test our plans freely for one month.
+* to open a Form For All account: signup for free at https://www.formforall.com and test our plans freely for one month.
 * to use our User API key (refer to http://blog.formforall.com/ ).
 
 <h4>DESCRIPTION</h4>
@@ -78,7 +78,7 @@ Build your form in one of our 35 languages and have it displayed in all 35 langu
 
 <h4>PUBLISHING</h4>
 
-* Our FormForAll plugin and widget allows you to easily insert your FomForAll forms into your sidebar and to embed them into your Wordpress site wherever you want.
+* Our Form For All plugin and widget allows you to easily insert your FomForAll forms into your sidebar and to embed them into your Wordpress site wherever you want.
 * If you want to include one of your form in an e-mail, we provide you with a hosted URL.
 * Alternatively, we can also provide you with a JavaScript that you just have to copy / paste, which will embed your form on a HTML page of your site.
 
@@ -92,7 +92,7 @@ Build your form in one of our 35 languages and have it displayed in all 35 langu
 
 <a href="http://blog.formforall.com/how-to-install-formforalls-wordpress-contact-form-plugin/" rel="nofollow">Detailed explanations</a> / <a href="http://blog.formforall.com/comment-installer-le-plugin-formforall-pour-wordpress/" rel="nofollow">Mode d'emploi détaillé</a> / <a href="http://blog.formforall.com/como-instalar-el-plugin-formforall-para-wordpress/" rel="nofollow">Instrucciones de instalación</a>
 
-* .1. Open a FormForAll form builder account: https://www.formforall.com (we have a free plan / on all paid plans, the 1st month is free, and you have no further engagement.)
+* .1. Open a FormForAll account: https://www.formforall.com (we have a free plan / on all paid plans, the 1st month is free, and you have no further engagement.)
 * .2. Through your WordPress menu, click on Plugins and type FormForAll on the search box.
 * .3. Once you have found our WordPress contact form FormForAll plugin, click on Install now.
 * .4. A new window opens. Click on Install now.
@@ -111,7 +111,7 @@ Build your form in one of our 35 languages and have it displayed in all 35 langu
 Open an account on https://www.formforall.com . It is free.
 
 <h4>How do I add a form to my site ?</h4>
-Once you have opened a FormForAll account and you have installed our plugin, you'll see our little FormForAll logo at the right end of your WordPress toolbar menu. If you click on it, all forms you have created on your FormForAll online form builder account appear there. Just select one form and click on “Add a form” to insert it wherever you want on your WordPress site!
+Once you have opened a FormForAll account and you have installed our plugin, you'll see our little FormForAll logo at the right end of your WordPress toolbar menu (if you don't see it, contact us!). If you click on it, all forms you have created on your FormForAll online form builder account appear there. Just select one form and click on “Add a form” to insert it wherever you want on your WordPress site!
 
 <h4>How much will it cost me then ?</h4>
 We have <a href="http://www.formforall.com/pricing" rel="nofollow">a free and premium monthly plans</a>. You can resign your monthly plans at any time. 
