@@ -53,7 +53,7 @@ class FormForAll_Widget extends WP_Widget {
 	parent::__construct(
 	    'formforall_widget', // Base ID
 	    'FormForAll', // Name
-	    array('description' => __('Des formulaires faciles d&apos;utilisation', 'formforall')) // Args
+	    array('description' => __("Easily embedded forms", "formforall")) // Args
 	);
    }
     
@@ -81,14 +81,14 @@ class FormForAll_Widget extends WP_Widget {
 	$requestUrlPath = "https://www.formforall.com/api/users/" . $option['user_id'] . "/forms";
 	$file = @file_get_contents($requestUrlPath, false, $context);
 	if ($file === FALSE) {
-	    ?><p><a href="options-general.php?page=formforall-settings"><?php echo __('Les param&egrave;tres n&apos;ont pas &eacute;t&eacute; remplis correctement', 'formforall'); ?></a></span>
+	    ?><p><a href="options-general.php?page=formforall-settings"><?php echo __("Parameters have not been set correctly", 'formforall'); ?></a></span>
 	    <?php 
 	} else {
 	    $result = json_decode($file);
 
 	    ?>
 	    <p>
-	    <label for="<?php echo $this->get_field_name('formid'); ?>"><?php echo __('Formulaire', 'formforall'); ?></label> 
+	    <label for="<?php echo $this->get_field_name('formid'); ?>"><?php echo __("Form", 'formforall'); ?></label> 
 	    <select name="<?php echo $this->get_field_name('formid'); ?>" id="<?php echo $this->get_field_id('formid'); ?>">
 		<?php 
 		    for ($i = 0; $i < count($result); $i++) echo '<option value="' . $result[$i]->id .'"'. ($result[$i]->id == $formid ? 'selected="selected"' : '') .'>' . $result[$i]->title . '</option>';

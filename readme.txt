@@ -4,7 +4,7 @@ Donate link: https://www.formforall.com/
 Tags: formforall, form4all, form for all, form, forms, online forms, form builder, lead generation, contact form, contact forms, surveys, order forms, online surveys, registration forms, event registration forms, lead generation form, multilingual, social login, Facebook connect, Facebook, responsive design, double opt-in, arabic, bengali, bulgarian, catalan, chinese (simple), czech, danish, dutch, english, estonian, finnish, french, flemmish, georgian, german, greek, hebrew, hindi, hungarian, indonesian, italian, japanese, korean, lithuanian, norwegian, persian, polish, portuguese, slovak, spanish, swedish, russian, turkish, ukrainian, formulaire de contact, formulaire, formulario de contacto, formulario, Google+ connect, modulo di contatto, modulo, Kontaktformular, Formular, formularz kontaktowy, formularz, форма контактов, форма, social login form, formulário de contacto, formulário, Contactformulier, formulier, Iletisim formu, formu
 
 Requires at least: 3.5.1
-Tested up to: 3.8
+Tested up to: 3.8.1
 Stable tag: 1.0
 License: GPLv2 or later
 
@@ -158,6 +158,9 @@ Do not hesitate! We are here to help you! Contact us at: http://www.formforall.c
 15. Our records API Key, to get all your submissions in real time.
 
 == Changelog ==
+<h4>Plugin translation - 06.02.2014</h4>
+* The plugin is now translated in English, French, Spanish and Portuguese
+
 <h4>22.01.2014</h4>
 * 15 new languages
 

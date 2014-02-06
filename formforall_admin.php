@@ -28,7 +28,11 @@ function formforall_plugin_init() {
  * JS registration
  */
 function formforall_register_tinymce_plugin($plugin_array) {
-    $plugin_array['formforall'] = plugins_url( basename( __DIR__ ) . '/js/formforall.js' );
+	if (version_compare(PHP_VERSION, '5.3.0') >= 0) {
+		$plugin_array['formforall'] = plugins_url( basename( __DIR__ ) . '/js/formforall.js' );
+	} else {
+		$plugin_array['formforall'] = plugins_url( basename( dirname(__FILE__) ) . '/js/formforall.js' );
+	}
     return $plugin_array;
 }
 
@@ -54,9 +58,9 @@ function formforall_tinymce_settings($settings) {
     $settings['formforall_api_key'] = $option['api_key'];
     
     // Translations
-    $settings['formforall_trans_form'] = __('Formulaire', 'formforall');
-    $settings['formforall_trans_addform'] = __('Ajouter le formulaire', 'formforall');
-    $settings['formforall_trans_errorparam'] = __('Les param&egrave;tres n&apos;ont pas &eacute;t&eacute; remplis correctement', 'formforall');
+    $settings['formforall_trans_form'] = __("Form", 'formforall');
+    $settings['formforall_trans_addform'] = __("Add a form", 'formforall');
+    $settings['formforall_trans_errorparam'] = __("Parameters have not been set correctly", 'formforall');
     
     return $settings;
 }
@@ -98,19 +102,19 @@ function formforall_admin_page_display() {
     if (!isset($option['api_key'])) $option['api_key'] = '';
 	
     // Display
-    $buffer .= '<h2>' . __('Configuration de FormForAll', 'formforall') . '</h2>';
+    $buffer .= '<h2>' . __('FormForAll configuration', 'formforall') . '</h2>';
     $buffer .= '<div id="poststuff" style="padding-top:10px; padding-right:15px; position:relative;">';
     $buffer .= '<div class="postbox">';
     $buffer .= '<form name="form1" method="post" action="">';
-    $buffer .= '<h3>' . __("Param&egrave;tres", 'formforall' ) . '</h3>';
+    $buffer .= '<h3>' . __("Parameters", 'formforall' ) . '</h3>';
     
-    $buffer .= '<div style="float: left; padding: 10px 5px; width: 90px"><label for="formforall_user_id">' . __("Id utilisateur", 'formforall' ) . '</label></div>';
+    $buffer .= '<div style="float: left; padding: 10px 5px; width: 90px"><label for="formforall_user_id">' . __("User Id", 'formforall' ) . '</label></div>';
     $buffer .= '<div style="float: left; padding: 5px;"><input type="text" name="formforall_user_id" value="' . $option['user_id'] . '" size="50"></div>';
     $buffer .= '<div style="clear: both"></div>';
     
-    $buffer .= '<div style="float: left; padding: 10px 5px; width: 90px"><label for="formforall_api_key">' . __("Cl&eacute; API utilisateur", 'formforall' ) . '</label></div>';
+    $buffer .= '<div style="float: left; padding: 10px 5px; width: 90px"><label for="formforall_api_key">' . __("User API key", 'formforall' ) . '</label></div>';
     $buffer .= '<div style="float: left; padding: 5px;"><input type="text" name="formforall_api_key" value="' . $option['api_key'] . '" size="50"></div>';
-    $buffer .= '<div style="float: left; padding: 10px;"><a href="http://www.formforall.com" class="submit" target="_blank">' . __("Obtenir une cl&eacute;", 'formforall' ) . '</a></div>';
+    $buffer .= '<div style="float: left; padding: 10px;"><a href="http://www.formforall.com" class="submit" target="_blank">' . __("To get your User API key", 'formforall' ) . '</a></div>';
     $buffer .= '<div style="clear: both"></div>';
     
     $buffer .= '<p class="submit" style="padding-left: 10px;"><input type="submit" name="Submit" class="button-primary" value="' . esc_attr('Save Changes') . '" /></p>';
