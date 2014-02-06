@@ -3,7 +3,7 @@
 Plugin Name: FormForAll
 Plugin URI: http://www.formforall.com/
 Description: FormForAll plugin allows you to insert the best forms directly coming from the FormForAll API.
-Version: 1.1
+Version: 1.2
 Author: FormForAll
 Author URI: http://www.formforall.com/
 */

@@ -158,7 +158,7 @@ Do not hesitate! We are here to help you! Contact us at: http://www.formforall.c
 15. Our records API Key, to get all your submissions in real time.
 
 == Changelog ==
-<h4>Plugin translation - 06.02.2014</h4>
+<h4>Plugin translation - V1.2 - 06.02.2014</h4>
 * The plugin is now translated in English, French, Spanish and Portuguese
 
 <h4>22.01.2014</h4>
