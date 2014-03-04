@@ -18,14 +18,14 @@ With <a href="http://www.formforall.com" rel="nofollow" target="_blank">FORM FOR
 
 For this plugin to work, you need:
 
-* to open a Form For All account: signup for free at https://www.formforall.com and test our plans freely for one month.
+* to open a Form For All account: signup for free at https://www.formforall.com and test all our plans freely for one month.
 * to use our User API key (refer to http://blog.formforall.com/ ).
 
 <h4>DESCRIPTION</h4>
 
 Contact form, Sign-up form, Log-in form, Subscription form, Booking form, Survey form, Event registration, Email newsletter… Just do any form with our online form builder!
 
-Our FormForAll plugin and widget allows you to easily insert your FormForAll forms into your sidebar and to embed them into your Wordpress site.
+Our FormForAll's plugin and widget allow you to easily insert your FormForAll forms into your sidebar and to embed them into your Wordpress site.
 
 * <a href="http://www.fr.formforall.com" rel="nofollow">Français</a>: Formulaire de contact, formulaire de Sign-up, formulaire de Log-in, formulaire d'inscription, formulaire de réservation, formulaire de sondage, email newsletter… Faites tout simplement n'importe quel formulaire avec notre générateur de formulaire !
 Nos plugin et widget FormForAll vous permettent d'insérer facilement vos formulaires FormForAll dans votre barre de menu et de les intégrer dans votre site Wordpress. (Plus d'infos sur http://www.fr.formforall.com )
