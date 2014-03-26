@@ -1,4 +1,4 @@
-=== Contact form Form For All - Easy to use, fast, 36 languages. === 
+=== Contact form Form For All - Easy to use, fast, 37 languages. === 
 Contributors: FormForAll
 Donate link: https://www.formforall.com/
 Tags: formforall, form4all, form for all, form, forms, online forms, form builder, lead generation, contact form, contact forms, surveys, order forms, online surveys, registration forms, event registration forms, lead generation form, multilingual, social login, Facebook connect, Facebook, responsive design, double opt-in, arabic, bengali, bulgarian, catalan, chinese (simple), czech, danish, dutch, english, estonian, finnish, french, flemmish, georgian, german, greek, hebrew, hindi, hungarian, indonesian, italian, japanese, korean, lithuanian, norwegian, persian, polish, portuguese, slovak, spanish, swedish, russian, turkish, ukrainian, formulaire de contact, formulaire, formulario de contacto, formulario, Google+ connect, modulo di contatto, modulo, Kontaktformular, Formular, formularz kontaktowy, formularz, форма контактов, форма, social login form, formulário de contacto, formulário, Contactformulier, formulier, Iletisim formu, formu
@@ -8,12 +8,12 @@ Tested up to: 3.8.1
 Stable tag: 1.0
 License: GPLv2 or later
 
-Drag and Drop interface. Tens of predefined fields, including Connect with Facebook and Google+. 36 languages. Responsive design. Double opt-in.
+Drag and Drop interface. Tens of predefined fields, including Connect with Facebook and Google+. 37 languages. Responsive design. Double opt-in.
 
 
 == Description ==
 With <a href="http://www.formforall.com" rel="nofollow" target="_blank">FORM FOR ALL</a>, create and launch your online forms <a href="http://www.formforall.com" rel="nofollow">IN SECONDS</a>!</p>
-<p><a href="http://www.formforall.com/features" rel="nofollow">EXCLUSIVE FEATURES</a>: Connect with Facebook Form, Google+ Form, Double opt-in form, forms in 36 languages.</p>
+<p><a href="http://www.formforall.com/features" rel="nofollow">EXCLUSIVE FEATURES</a>: Connect with Facebook Form, Google+ Form, Double opt-in form, forms in 37 languages.</p>
 <p><a href="http://www.formforall.com/pricing" rel="nofollow">FREE PLAN</a> available and <a href="http://www.formforall.com/pricing" rel="nofollow">1st MONTH FREE</a> on all paid plans. No engagement.</p>
 
 For this plugin to work, you need:
@@ -69,12 +69,12 @@ Wordpress eklentimiz ve widgetimiz FormForAll formlarinizi kolayca menü çubugu
 * <a href="http://www.formforall.com/features#submissionconfirmation" rel="nofollow">FORM SUBMISSION MESSAGE or REDIRECTION</a>: a default message can be displayed to the user once the form is submitted, or the user can be redirected to the URL of your choice.
 * <a href="http://www.formforall.com/tour#collect" rel="nofollow">DATA COLLECTION</a>You can export submitted data using our Export CSV or on a real time basis using our API.
 
-<h4>36 LANGUAGES</h4>
+<h4>37 LANGUAGES</h4>
 
-Build your form in one of our 36 languages and have it displayed in all 36 languages: 
+Build your form in one of our 37 languages and have it displayed in all 37 languages: 
 
-<p>* Arabic, Bengali, Bulgarian, Catalan, Chinese (simple), Chinese (traditionnal), Czech, Danish, Dutch, English(us), English(uk), Estonian, Finnish, Flemish, French, Georgian, German, Greek, Hebrew, Hindi, Hungarian, Indonesian, Italian, Japanese, Korean, Lithuanian, Norwegian, Persian, Polish, Portuguese, Slovak, Spanish, Swedish, Russian, Turkish, Ukrainian.</p>
-<p>* Looking for a 36th language ? <a href="http://www.formforall.com/contact" rel="nofollow">Tell us!</a></p>
+<p>* Arabic, Armenian, Bengali, Bulgarian, Catalan, Chinese (simple), Chinese (traditionnal), Czech, Danish, Dutch, English(us), English(uk), Estonian, Finnish, Flemish, French, Georgian, German, Greek, Hebrew, Hindi, Hungarian, Indonesian, Italian, Japanese, Korean, Lithuanian, Norwegian, Persian, Polish, Portuguese, Slovak, Spanish, Swedish, Russian, Turkish, Ukrainian.</p>
+<p>* Looking for a 38th language ? <a href="http://www.formforall.com/contact" rel="nofollow">Tell us!</a></p>
 
 <h4>PUBLISHING</h4>
 
