@@ -92,6 +92,9 @@ Build your form in one of our 37 languages and have it displayed in all 37 langu
 
 <a href="http://blog.formforall.com/how-to-install-formforalls-wordpress-contact-form-plugin/" rel="nofollow">Detailed explanations</a> / <a href="http://blog.formforall.com/comment-installer-le-plugin-formforall-pour-wordpress/" rel="nofollow">Mode d'emploi détaillé</a> / <a href="http://blog.formforall.com/como-instalar-el-plugin-formforall-para-wordpress/" rel="nofollow">Instrucciones de instalación</a>
 
+* .1. Upload FormForAll.zip via the Upload link in the WordPress plugins dashboard.
+
+Then:
 * .1. Open a FormForAll account: https://www.formforall.com (we have a free plan / on all paid plans, the 1st month is free, and you have no further engagement.)
 * .2. Through your WordPress menu, click on Plugins and type FormForAll on the search box.
 * .3. Once you have found our WordPress contact form FormForAll plugin, click on Install now.
